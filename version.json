@@ -1,6 +1,6 @@
 {
-  "version": 1532,
+  "version": 1533,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1532/qfam-v1532.apk",
-  "notes": "AI sector analysis v2 -- day-of-week awareness, next-day/week time horizon outlook, differentiated per-stock analysis, removed Past Analyses section."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1533/qfam-v1533.apk",
+  "notes": "Collapsible AI stock cards -- collapsed by default, tap header to expand/collapse, smooth animation. Long-press card to open stock detail."
 }
