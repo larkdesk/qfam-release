@@ -1,6 +1,6 @@
 {
-  "version": 1531,
+  "version": 1532,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1531/qfam-v1531.apk",
-  "notes": "Smarter AI sector analysis \u2014 compares stock performance vs sector, detects relative strength/divergence, includes volume ratio and forward-looking next-week outlook."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1532/qfam-v1532.apk",
+  "notes": "AI sector analysis v2 -- day-of-week awareness, next-day/week time horizon outlook, differentiated per-stock analysis, removed Past Analyses section."
 }
