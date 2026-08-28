@@ -1,6 +1,6 @@
 {
-  "version": 1527,
+  "version": 1528,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1527/qfam-v1527.apk",
-  "notes": "Fix in-app updater install button not working \u2014 missing REQUEST_INSTALL_PACKAGES permission."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1528/qfam-v1528.apk",
+  "notes": "AI Sector Insight: analysis now only runs on Refresh tap (not on open/switch), and remembers the last 2 runs per strategy."
 }
