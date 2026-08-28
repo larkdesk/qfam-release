@@ -1,6 +1,6 @@
 {
-  "version": 1528,
+  "version": 1529,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1528/qfam-v1528.apk",
-  "notes": "AI Sector Insight: analysis now only runs on Refresh tap (not on open/switch), and remembers the last 2 runs per strategy."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1529/qfam-v1529.apk",
+  "notes": "Alpaca buy button added to Recent Trades cards."
 }
