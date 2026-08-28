@@ -1,6 +1,6 @@
 {
-  "version": 1525,
+  "version": 1526,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1525/qfam-v1525.apk",
-  "notes": "Bug fixes and improvements (v1525)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1526/qfam-v1526.apk",
+  "notes": "AI Strategy Analysis panel on Sector Rotation: per-stock sector insight with intraday data, strategy selector, tap-to-open, redesigned cards."
 }
