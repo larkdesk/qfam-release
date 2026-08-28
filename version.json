@@ -1,6 +1,6 @@
 {
-  "version": 1529,
+  "version": 1530,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1529/qfam-v1529.apk",
-  "notes": "Alpaca buy button added to Recent Trades cards."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1530/qfam-v1530.apk",
+  "notes": "Fix crash tapping Alpaca buy in Recent Trades; replace wrench-rendering strategy settings icon with a proper gear."
 }
