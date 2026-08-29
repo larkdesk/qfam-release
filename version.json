@@ -1,6 +1,6 @@
 {
-  "version": 1541,
+  "version": 1542,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1541/qfam-v1541.apk",
-  "notes": "Entry Rejections screen: restored Today/24h/7-Days time filter, strategy picker is now a spinner, AI analysis moved to a floating button, tap a card to open its floating stock overlay."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1542/qfam-v1542.apk",
+  "notes": "Entry Rejections screen: moved the time-range/strategy filter bar to the bottom of the screen instead of the top, with a proper bottom-bar look."
 }
