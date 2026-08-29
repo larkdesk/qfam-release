@@ -1,6 +1,6 @@
 {
-  "version": 1547,
+  "version": 1548,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1547/qfam-v1547.apk",
-  "notes": "Fixed a major gap in Entry Rejections: the outer time-window, data-freshness, and sector-filter checks in evaluateEntry() were silently blocking symbols without logging anything, so strategies with a closed time window or an active sector filter showed zero rejections. Now logged as GUARD_TIME_WINDOW, GUARD_DATA_STALE, GUARD_SECTOR_STALE, and GUARD_SECTOR_STRENGTH."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1548/qfam-v1548.apk",
+  "notes": "Fix silent market-hours gate that skipped entry evaluation (and rejection logging) entirely for strategies without allow_after_hours on weekends/off-hours"
 }
