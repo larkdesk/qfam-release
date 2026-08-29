@@ -1,6 +1,6 @@
 {
-  "version": 1551,
+  "version": 1552,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1551/qfam-v1551.apk",
-  "notes": "Crash fixes: BadTokenException Alpaca context fix, OOM guards in ContinuationSignalHelper + TLC crawl1Y async paths, terminated-executor guard in OpenPositionsAdapter."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1552/qfam-v1552.apk",
+  "notes": "Cache-bust the update-check manifest fetch so 'Check for Update' doesn't report a stale CDN-cached version right after a release"
 }
