@@ -1,6 +1,6 @@
 {
-  "version": 1549,
+  "version": 1550,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1549/qfam-v1549.apk",
-  "notes": "Exclude weekends from the sector rotation chart/backtest (flat duplicate or missing data, no signal); fix stale strategy spinner opening the wrong strategy's settings after an edit in Settings"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1550/qfam-v1550.apk",
+  "notes": "Fix the sector chart's own data query to actually exclude weekends (previous fix hit the wrong method); fix Strategy Settings opening the wrong strategy's tab when the selected strategy's id is 0"
 }
