@@ -1,6 +1,6 @@
 {
-  "version": 1539,
+  "version": 1540,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1539/qfam-v1539.apk",
-  "notes": "Removed EOD monitoring (GapUp on live crawl), all strategies respect time windows, fixed Day 2 Continuation gating, fixed About Strategy accuracy, fixed combo settings UI, cleaned up stale EOD copy."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1540/qfam-v1540.apk",
+  "notes": "Added the new Entry Rejection Audit screen: filter by strategy, grouped by Today/Yesterday/This Week, shows the real rejection reason and guard per stock, JSON export, and on-device AI pattern analysis. Entry rejection data now stored in a renamed, auto-purged table (7-day retention)."
 }
