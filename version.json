@@ -1,6 +1,6 @@
 {
-  "version": 1552,
+  "version": 1553,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1552/qfam-v1552.apk",
-  "notes": "Cache-bust the update-check manifest fetch so 'Check for Update' doesn't report a stale CDN-cached version right after a release"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1553/qfam-v1553.apk",
+  "notes": "Cancel active notifications before the self-update install intent, avoiding a burst of harmless OS Notification Assistant errors right after updating"
 }
