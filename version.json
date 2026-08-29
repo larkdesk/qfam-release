@@ -1,6 +1,6 @@
 {
-  "version": 1553,
+  "version": 1554,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1553/qfam-v1553.apk",
-  "notes": "Cancel active notifications before the self-update install intent, avoiding a burst of harmless OS Notification Assistant errors right after updating"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1554/qfam-v1554.apk",
+  "notes": "Replace WebView cookie fetch with lightweight fc.yahoo.com GET \u2014 eliminates multi-GB WebView cache growth during crawl cycles."
 }
