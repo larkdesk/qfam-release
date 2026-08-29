@@ -1,6 +1,6 @@
 {
-  "version": 1535,
+  "version": 1536,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1535/qfam-v1535.apk",
-  "notes": "AI card fixes: tap-to-collapse and long-press-to-open-stock now work anywhere on the card; in-flight analyses no longer get lost if the panel is dismissed mid-generation."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1536/qfam-v1536.apk",
+  "notes": "AI analysis now visibly survives closing/reopening the panel, and is guarded against duplicate concurrent runs per stock."
 }
