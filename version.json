@@ -1,6 +1,6 @@
 {
-  "version": 1542,
+  "version": 1543,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1542/qfam-v1542.apk",
-  "notes": "Entry Rejections screen: moved the time-range/strategy filter bar to the bottom of the screen instead of the top, with a proper bottom-bar look."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1543/qfam-v1543.apk",
+  "notes": "Entry Rejections screen: cards grouped by stock (one card per stock with all guards it tripped), added 'passed but not bought' cases (insufficient cash, buy declined, entry not allowed), per-guard icons, and reasons now shown in plain English instead of raw key=value strings."
 }
