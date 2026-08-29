@@ -1,6 +1,6 @@
 {
-  "version": 1554,
+  "version": 1555,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1554/qfam-v1554.apk",
-  "notes": "Replace WebView cookie fetch with lightweight fc.yahoo.com GET \u2014 eliminates multi-GB WebView cache growth during crawl cycles."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1555/qfam-v1555.apk",
+  "notes": "Fix charger job time gate: restored intentional 22:00-08:00 window, made it configurable in Settings, added self-healing for a stuck sticky-service and diagnostic logging; remove remaining EOD strings from notification titles/channels"
 }
