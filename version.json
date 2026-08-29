@@ -1,6 +1,6 @@
 {
-  "version": 1538,
+  "version": 1539,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1538/qfam-v1538.apk",
-  "notes": "Major cleanup: removed EOD monitoring (GapUp runs on live crawl, time windows govern everything), fixed About Strategy text accuracy, fixed combo settings UI, fixed Day 2 Continuation time gating. All strategies now respect configured time windows."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1539/qfam-v1539.apk",
+  "notes": "Removed EOD monitoring (GapUp on live crawl), all strategies respect time windows, fixed Day 2 Continuation gating, fixed About Strategy accuracy, fixed combo settings UI, cleaned up stale EOD copy."
 }
