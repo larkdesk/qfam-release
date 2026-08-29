@@ -1,6 +1,6 @@
 {
-  "version": 1545,
+  "version": 1546,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1545/qfam-v1545.apk",
-  "notes": "Floor Bounce Backtest now flags suspected duplicate snapshots (identical data written twice) that would otherwise inflate the sample size, surfaced in the UI, export, and AI analysis. Entry Rejection reasons are now guard-aware \u2014 explain what a threshold actually means (e.g. 200-day moving average) instead of a bare number, and fixed a wrong 'needs exactly' direction on the Breakout Reclaim guard."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1546/qfam-v1546.apk",
+  "notes": "Fixed gapup_monitor_pool going stale in the background (was only refreshing when the app UI was open, starving Breakout Pullback's pool-membership guard) \u2014 now synced every crawl cycle. Entry Rejections now humanizes every guard reason (time windows, moving averages, bounce percentages, etc.) instead of raw key=value text for a handful of them."
 }
