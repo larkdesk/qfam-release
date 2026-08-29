@@ -1,6 +1,6 @@
 {
-  "version": 1546,
+  "version": 1547,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1546/qfam-v1546.apk",
-  "notes": "Fixed gapup_monitor_pool going stale in the background (was only refreshing when the app UI was open, starving Breakout Pullback's pool-membership guard) \u2014 now synced every crawl cycle. Entry Rejections now humanizes every guard reason (time windows, moving averages, bounce percentages, etc.) instead of raw key=value text for a handful of them."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1547/qfam-v1547.apk",
+  "notes": "Fixed a major gap in Entry Rejections: the outer time-window, data-freshness, and sector-filter checks in evaluateEntry() were silently blocking symbols without logging anything, so strategies with a closed time window or an active sector filter showed zero rejections. Now logged as GUARD_TIME_WINDOW, GUARD_DATA_STALE, GUARD_SECTOR_STALE, and GUARD_SECTOR_STRENGTH."
 }
