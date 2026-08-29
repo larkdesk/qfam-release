@@ -1,6 +1,6 @@
 {
-  "version": 1544,
+  "version": 1545,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1544/qfam-v1544.apk",
-  "notes": "Fixed Entry Rejections AI timeout (bounded response, longer budget) and added result persistence across panel close/reopen. Added a new Floor Bounce Backtest to Sector Rotation Monitor testing whether sectors bounce off shared market flushes persistently, with JSON export and AI analysis. Entry Rejections now cross-references sector data with Sector Rotation."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1545/qfam-v1545.apk",
+  "notes": "Floor Bounce Backtest now flags suspected duplicate snapshots (identical data written twice) that would otherwise inflate the sample size, surfaced in the UI, export, and AI analysis. Entry Rejection reasons are now guard-aware \u2014 explain what a threshold actually means (e.g. 200-day moving average) instead of a bare number, and fixed a wrong 'needs exactly' direction on the Breakout Reclaim guard."
 }
