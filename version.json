@@ -1,6 +1,6 @@
 {
-  "version": 1557,
+  "version": 1558,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1557/qfam-v1557.apk",
-  "notes": "Charger job runtime receiver fix, configurable time window in Settings, EOD notification string cleanup."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1558/qfam-v1558.apk",
+  "notes": "WorkManager charger job trigger (fires even when process is killed), Trading212 WebView leak fix."
 }
