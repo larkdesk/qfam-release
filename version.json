@@ -1,6 +1,6 @@
 {
-  "version": 1556,
+  "version": 1557,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1556/qfam-v1556.apk",
-  "notes": "Fix misleading GapUp Continuation settings left over from EOD removal: relabel 'Max EOD entries' to accurately describe the shared GapUp/Intraday-Dip position cap, remove a dead 'Max entry run-up cap' setting that no longer does anything"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1557/qfam-v1557.apk",
+  "notes": "Charger job runtime receiver fix, configurable time window in Settings, EOD notification string cleanup."
 }
