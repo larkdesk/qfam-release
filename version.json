@@ -1,6 +1,6 @@
 {
-  "version": 1567,
+  "version": 1568,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1567/qfam-v1567.apk",
-  "notes": "Moved App Log to its own screen (overflow menu) instead of the Log tab; fixed a SlidingUpPanel crash on app launch."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1568/qfam-v1568.apk",
+  "notes": "CRITICAL: fixed a time-window bug that let strategies buy outside their configured restrict_entry_hours window when another module (IntradayDip/Day2) was also enabled on the same strategy. Also fixed overnight windows always blocking entries."
 }
