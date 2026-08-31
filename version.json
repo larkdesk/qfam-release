@@ -1,6 +1,6 @@
 {
-  "version": 1571,
+  "version": 1572,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1571/qfam-v1571.apk",
-  "notes": "Close ghost Alpaca positions that are filled locally but no longer exist on Alpaca's live account (e.g. wrong-account routing); runs automatically on app resume."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1572/qfam-v1572.apk",
+  "notes": "Fix stale position count on Alpaca account panel open (always fetches fresh now). Also fix ghost-position cleanup to catch positions whose filled order landed on an account not enabled for that strategy (e.g. Combo: Max 2 order filled on Combo paper instead of MAX 2 paper)."
 }
