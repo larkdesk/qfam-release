@@ -1,6 +1,6 @@
 {
-  "version": 1581,
+  "version": 1582,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1581/qfam-v1581.apk",
-  "notes": "Close remaining gaps in the after-hours sell fix: limit-order exits and bulk Liquidate All were still not blocked outside regular hours (limit orders used to queue as a DAY order overnight instead of being blocked outright). Both now hard-block the same way market orders already do."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1582/qfam-v1582.apk",
+  "notes": "Critical fix: the after-hours guards from the last two releases only blocked the Alpaca order, not the local close -- a blocked exit could leave the app showing a position as sold while Alpaca still held it. Now checked before any local state changes, and this also covers the actual reported bug (partial-profit exits, which used a different, previously-unguarded submission path). Also renamed GapUpExitManager/GapUpCrawlTask to PositionExitManager/PositionExitCrawlTask to match their existing 'Position Exit Monitor' label."
 }
