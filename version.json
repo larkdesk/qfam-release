@@ -1,6 +1,6 @@
 {
-  "version": 1578,
+  "version": 1579,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1578/qfam-v1578.apk",
-  "notes": "Fix ANR in ProgressForegroundService (startForeground now called at the very start of onCreate). Ghost cleanup now skips strategies with Alpaca currently off. Entry Rejections shows each guard's own last-seen time. Quieter floating overlay when a symbol's local record is gone."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1579/qfam-v1579.apk",
+  "notes": "Fix recovery-order path (missed-entry recovery): now resolves accounts the same way normal entries do, respects the per-account max-positions cap, and re-checks the entry time window before placing a real order -- closes the same class of bug as the earlier BTGO account/time-window fixes, reached through a different code path."
 }
