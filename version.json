@@ -1,6 +1,6 @@
 {
-  "version": 1580,
+  "version": 1581,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1580/qfam-v1580.apk",
-  "notes": "URGENT fix: market-order exits (stop-loss/trailing-stop) could fire real sell orders outside regular market hours since the exit path had no time-of-day guard for market orders. Now blocked the same way after-hours entries already were, unless the strategy's Allow After Hours is on."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1581/qfam-v1581.apk",
+  "notes": "Close remaining gaps in the after-hours sell fix: limit-order exits and bulk Liquidate All were still not blocked outside regular hours (limit orders used to queue as a DAY order overnight instead of being blocked outright). Both now hard-block the same way market orders already do."
 }
