@@ -1,6 +1,6 @@
 {
-  "version": 1560,
+  "version": 1561,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1560/qfam-v1560.apk",
-  "notes": "WorkManager charger trigger fix (fires when app is closed), duplicate crawl mutex fix (counter no longer goes backwards), TLC stop reverted from stop button."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1561/qfam-v1561.apk",
+  "notes": "Critical fix: sell/exit orders now respect allow_after_hours setting \u2014 no more 2am fills when after-hours is disabled."
 }
