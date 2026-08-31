@@ -1,6 +1,6 @@
 {
-  "version": 1575,
+  "version": 1576,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1575/qfam-v1575.apk",
-  "notes": "Ghost-position cleanup now checks a symbol against ALL configured accounts before deleting (not just one), and finally respects the Auto-delete/Notify-only settings it was previously ignoring -- this is what silently deleted MRVL despite Notify-only being ON."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1576/qfam-v1576.apk",
+  "notes": "Ghost-position notifications now throttle to once per 24h per symbol instead of firing on every app resume."
 }
