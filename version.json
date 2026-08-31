@@ -1,6 +1,6 @@
 {
-  "version": 1564,
+  "version": 1565,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1564/qfam-v1564.apk",
-  "notes": "Fixed floating watchlist/positions overlays crashing on launch (ForegroundServiceDidNotStartInTimeException) -- both now promote to foreground immediately."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1565/qfam-v1565.apk",
+  "notes": "Added in-app App Log panel (grouped error/warning/info tracking with share) in the Log tab, plus 8 crash spots now feed it."
 }
