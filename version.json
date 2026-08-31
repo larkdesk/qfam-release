@@ -1,6 +1,6 @@
 {
-  "version": 1577,
+  "version": 1578,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1577/qfam-v1577.apk",
-  "notes": "Fix intraday-data-freshness guard rejecting entries on the same cycle their data was just fetched (timestamp was stamped too late). Ghost-position notifications now show the strategy name so repeat-looking alerts can be told apart."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1578/qfam-v1578.apk",
+  "notes": "Fix ANR in ProgressForegroundService (startForeground now called at the very start of onCreate). Ghost cleanup now skips strategies with Alpaca currently off. Entry Rejections shows each guard's own last-seen time. Quieter floating overlay when a symbol's local record is gone."
 }
