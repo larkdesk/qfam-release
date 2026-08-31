@@ -1,6 +1,6 @@
 {
-  "version": 1566,
+  "version": 1567,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1566/qfam-v1566.apk",
-  "notes": "Fixed a crash opening the Log tab (ScrollView can only host one direct child)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1567/qfam-v1567.apk",
+  "notes": "Moved App Log to its own screen (overflow menu) instead of the Log tab; fixed a SlidingUpPanel crash on app launch."
 }
