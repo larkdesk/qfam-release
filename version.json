@@ -1,6 +1,6 @@
 {
-  "version": 1573,
+  "version": 1574,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1573/qfam-v1573.apk",
-  "notes": "Alpaca account overview: filter out zero-qty leftover rows from the live position count, and log the raw /v2/positions response for diagnosing future count discrepancies."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1574/qfam-v1574.apk",
+  "notes": "Fix ambiguous account name-matching that let ghost positions like BTGO slip past cleanup (Combo: Max 2 matched both Combo and MAX 2). Also fix Alpaca Open Positions count changing depending on which QFam strategy is selected -- it now always reflects the live Alpaca account only."
 }
