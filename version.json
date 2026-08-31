@@ -1,6 +1,6 @@
 {
-  "version": 1559,
+  "version": 1560,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1559/qfam-v1559.apk",
-  "notes": "WebView cache purge, duplicate charger trigger fix, crawl stop button on notification + in-app."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1560/qfam-v1560.apk",
+  "notes": "WorkManager charger trigger fix (fires when app is closed), duplicate crawl mutex fix (counter no longer goes backwards), TLC stop reverted from stop button."
 }
