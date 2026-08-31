@@ -1,6 +1,6 @@
 {
-  "version": 1563,
+  "version": 1564,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1563/qfam-v1563.apk",
-  "notes": "Fixed home screen widget's Handpicked Watchlist showing empty when items are watched closed positions -- now matches the in-app dialog."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1564/qfam-v1564.apk",
+  "notes": "Fixed floating watchlist/positions overlays crashing on launch (ForegroundServiceDidNotStartInTimeException) -- both now promote to foreground immediately."
 }
