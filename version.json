@@ -1,6 +1,6 @@
 {
-  "version": 1572,
+  "version": 1573,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1572/qfam-v1572.apk",
-  "notes": "Fix stale position count on Alpaca account panel open (always fetches fresh now). Also fix ghost-position cleanup to catch positions whose filled order landed on an account not enabled for that strategy (e.g. Combo: Max 2 order filled on Combo paper instead of MAX 2 paper)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1573/qfam-v1573.apk",
+  "notes": "Alpaca account overview: filter out zero-qty leftover rows from the live position count, and log the raw /v2/positions response for diagnosing future count discrepancies."
 }
