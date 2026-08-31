@@ -1,6 +1,6 @@
 {
-  "version": 1569,
+  "version": 1570,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1569/qfam-v1569.apk",
-  "notes": "CRITICAL: fixed Combo strategies ignoring their own configured entry-time window -- the previous fix targeted the wrong mechanism; this corrects the actual root cause (the outer gate checked the matched constituent's own row instead of the combo's)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1570/qfam-v1570.apk",
+  "notes": "CRITICAL: fixed Alpaca orders silently routing to the wrong paper account when a strategy's Enabled Accounts setting was empty/unsaved. Also fixed Unrealized P&L always showing +EUR0.00 in the Alpaca account overview."
 }
