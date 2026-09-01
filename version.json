@@ -1,6 +1,6 @@
 {
-  "version": 1582,
+  "version": 1583,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1582/qfam-v1582.apk",
-  "notes": "Critical fix: the after-hours guards from the last two releases only blocked the Alpaca order, not the local close -- a blocked exit could leave the app showing a position as sold while Alpaca still held it. Now checked before any local state changes, and this also covers the actual reported bug (partial-profit exits, which used a different, previously-unguarded submission path). Also renamed GapUpExitManager/GapUpCrawlTask to PositionExitManager/PositionExitCrawlTask to match their existing 'Position Exit Monitor' label."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1583/qfam-v1583.apk",
+  "notes": "Fix two market-open OOM cascade contributors: swapped CopyOnWriteArrayList for a synchronized ArrayList in the crawl outcome-stamp accumulators (was copying the whole list on every write), and stopped re-parsing the full 1-year OHLC history once per strategy/combo-constituent during entry evaluation (now computed once per symbol)."
 }
