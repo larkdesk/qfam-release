@@ -1,6 +1,6 @@
 {
-  "version": 1588,
+  "version": 1589,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1588/qfam-v1588.apk",
-  "notes": "URGENT FIX: v1587 crashed on open for every strategy's settings screen (IllegalFormatConversionException in the Entry Strictness preview - Math.round()'s long result passed directly into a %.0f format specifier). Cast to double before formatting, matching the correct pattern used elsewhere in the same method. Settings screen is safe to open again."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1589/qfam-v1589.apk",
+  "notes": "URGENT FIX: after-hours sell guard could be bypassed by a slow exit cycle. handleExit()/liquidatePositionSync() checked the market-hours clock once at the top of the function, then reused that stale snapshot across a per-account loop making several real Alpaca API calls - if the loop ran long enough, an order could still go out minutes after the close even with Allow After Hours off. Reported: a Combo greed-cut exit placed a market sell 9 minutes after close despite the setting being off. Fixed by re-checking the clock fresh immediately before each order dispatch."
 }
