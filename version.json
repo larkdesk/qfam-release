@@ -1,6 +1,6 @@
 {
-  "version": 1585,
+  "version": 1586,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1585/qfam-v1585.apk",
-  "notes": "Ghost-cleanup reconciliation no longer silently erases a genuinely-filled position with zero audit trail: when a real Alpaca fill happened and the position is just gone from every configured account, the local delete now writes a trade_history row (exit_reason=RECONCILED_GHOST) with a best-effort exit price and correct P&L-based cash refund, instead of the no-history delete path meant only for user-initiated 'Delete trade'."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1586/qfam-v1586.apk",
+  "notes": "Alpaca Portfolio: tapping a position or order row now opens the floating stock overlay for that symbol instead of just copying it to the clipboard. Tap the Close button on a position to still close it as before."
 }
