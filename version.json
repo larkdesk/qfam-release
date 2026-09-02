@@ -1,6 +1,6 @@
 {
-  "version": 1587,
+  "version": 1588,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1587/qfam-v1587.apk",
-  "notes": "Added 122 missing Strategy Settings rows for entry-evaluation fields that had no UI before (Breakout Pullback/Day 2/Breakout Reclaim/Follower/Recovery entry criteria, 8 new module sections including Volatility Contraction/Momentum Rider/Accumulation Bar/EOD Momentum/OFI/Smart Pullback, Sector Rotation Filter, and Advanced breakout/volume/cluster guards). This also fixes the Entry Strictness preview silently showing 0 for these fields. Also fixed Reverse 4-2 never loading from the DB due to a camelCase mapping bug, and wired up the previously-dead gap_up_max_entry_cap_pct guard."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1588/qfam-v1588.apk",
+  "notes": "URGENT FIX: v1587 crashed on open for every strategy's settings screen (IllegalFormatConversionException in the Entry Strictness preview - Math.round()'s long result passed directly into a %.0f format specifier). Cast to double before formatting, matching the correct pattern used elsewhere in the same method. Settings screen is safe to open again."
 }
