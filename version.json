@@ -1,6 +1,6 @@
 {
-  "version": 1586,
+  "version": 1587,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1586/qfam-v1586.apk",
-  "notes": "Alpaca Portfolio: tapping a position or order row now opens the floating stock overlay for that symbol instead of just copying it to the clipboard. Tap the Close button on a position to still close it as before."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1587/qfam-v1587.apk",
+  "notes": "Added 122 missing Strategy Settings rows for entry-evaluation fields that had no UI before (Breakout Pullback/Day 2/Breakout Reclaim/Follower/Recovery entry criteria, 8 new module sections including Volatility Contraction/Momentum Rider/Accumulation Bar/EOD Momentum/OFI/Smart Pullback, Sector Rotation Filter, and Advanced breakout/volume/cluster guards). This also fixes the Entry Strictness preview silently showing 0 for these fields. Also fixed Reverse 4-2 never loading from the DB due to a camelCase mapping bug, and wired up the previously-dead gap_up_max_entry_cap_pct guard."
 }
