@@ -1,6 +1,6 @@
 {
-  "version": 1584,
+  "version": 1585,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1584/qfam-v1584.apk",
-  "notes": "Fix after-hours exit guard checking the wrong signal: it was gated on the strategy's CURRENT Alpaca auto-trade toggle instead of whether the position actually has a real Alpaca order behind it, so a position bought while linked could still sell after hours once the toggle was later turned off, regardless of allow_after_hours."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1585/qfam-v1585.apk",
+  "notes": "Ghost-cleanup reconciliation no longer silently erases a genuinely-filled position with zero audit trail: when a real Alpaca fill happened and the position is just gone from every configured account, the local delete now writes a trade_history row (exit_reason=RECONCILED_GHOST) with a best-effort exit price and correct P&L-based cash refund, instead of the no-history delete path meant only for user-initiated 'Delete trade'."
 }
