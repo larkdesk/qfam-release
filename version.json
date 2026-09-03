@@ -1,6 +1,6 @@
 {
-  "version": 1590,
+  "version": 1591,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1590/qfam-v1590.apk",
-  "notes": "URGENT FIX: after-hours sells could still slip through despite the previous fix (CHA sold after hours on a path none of the earlier patches covered). Instead of chasing the next individual leak, the guard now lives at the single lowest-level point in the whole app that actually sends a sell order to Alpaca - every sell, market or limit, algorithmic or manual, first attempt or retry, passes through this one method with no exception. A sell outside regular hours is rejected right there unless the strategy explicitly allows after-hours trading. Also fixed partial-exit sells silently ignoring the allow_after_hours setting."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1591/qfam-v1591.apk",
+  "notes": "Performance fix for occasional ANR/slow app start: the DB schema-migration check that runs on every app open was re-querying SQLite from scratch for each of ~285 individual column checks instead of caching the table schema once. Also removed a completely unused JobManager library that was still synchronously opening its own SQLite file on every cold start, and moved one more synchronous settings read off the main thread during app startup."
 }
