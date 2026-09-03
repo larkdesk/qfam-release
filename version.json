@@ -1,6 +1,6 @@
 {
-  "version": 1591,
+  "version": 1592,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1591/qfam-v1591.apk",
-  "notes": "Performance fix for occasional ANR/slow app start: the DB schema-migration check that runs on every app open was re-querying SQLite from scratch for each of ~285 individual column checks instead of caching the table schema once. Also removed a completely unused JobManager library that was still synchronously opening its own SQLite file on every cold start, and moved one more synchronous settings read off the main thread during app startup."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1592/qfam-v1592.apk",
+  "notes": "Fixed a false-positive ghost-position alert that could fire on a genuinely legitimate sell (BTGO was sold for real profit but got flagged as a ghost) - a fresh check now confirms the position wasn't already legitimately closed before firing the alert. Also added the actual exit reason (stop loss, trailing stop, profit target, etc.) to the Alpaca order/fill notifications that were missing it - trade_history already tracked this correctly, it just wasn't shown in these notifications."
 }
