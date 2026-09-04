@@ -1,6 +1,6 @@
 {
-  "version": 1594,
+  "version": 1595,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1594/qfam-v1594.apk",
-  "notes": "Two changes: moved the Trade History CSV export to the Strategy Dashboard as a proper gradient card with icon, reachable without opening a specific strategy first. Added a new pre-configured 'Sweet Spot' system strategy, built from trade-history analysis - targets uptrend (not extended) stocks with RSI 70-80, moderate volume, a skyrocket signal, restricted to Technology/Basic Materials/Communication Services sectors, held up to 30 days to a profit target plus volume-climax exit."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1595/qfam-v1595.apk",
+  "notes": "Sweet Spot strategy updates: enabled pre-market entries (data showed 24.5% big-win rate pre-market vs 7.6% regular hours) and added the standard Alpaca trading configuration (paper trading on, limit orders, position sizing) so it's ready to trade once you set your account. Verified the exit rules (profit target, volume climax, trail stop, stop loss, max hold days) were already correctly configured."
 }
