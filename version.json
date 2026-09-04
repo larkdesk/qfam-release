@@ -1,6 +1,6 @@
 {
-  "version": 1592,
+  "version": 1593,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1592/qfam-v1592.apk",
-  "notes": "Fixed a false-positive ghost-position alert that could fire on a genuinely legitimate sell (BTGO was sold for real profit but got flagged as a ghost) - a fresh check now confirms the position wasn't already legitimately closed before firing the alert. Also added the actual exit reason (stop loss, trailing stop, profit target, etc.) to the Alpaca order/fill notifications that were missing it - trade_history already tracked this correctly, it just wasn't shown in these notifications."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1593/qfam-v1593.apk",
+  "notes": "Added a new 'Export Trade History (CSV)' button on the Trade Analysis screen, next to the existing Share button. It exports the complete trade_history table - every row, every column, no limit - joined with strategy names, as a proper CSV file you can AirDrop/email directly from the share sheet. Dates are formatted as readable text instead of raw numbers."
 }
