@@ -1,6 +1,6 @@
 {
-  "version": 1593,
+  "version": 1594,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1593/qfam-v1593.apk",
-  "notes": "Added a new 'Export Trade History (CSV)' button on the Trade Analysis screen, next to the existing Share button. It exports the complete trade_history table - every row, every column, no limit - joined with strategy names, as a proper CSV file you can AirDrop/email directly from the share sheet. Dates are formatted as readable text instead of raw numbers."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1594/qfam-v1594.apk",
+  "notes": "Two changes: moved the Trade History CSV export to the Strategy Dashboard as a proper gradient card with icon, reachable without opening a specific strategy first. Added a new pre-configured 'Sweet Spot' system strategy, built from trade-history analysis - targets uptrend (not extended) stocks with RSI 70-80, moderate volume, a skyrocket signal, restricted to Technology/Basic Materials/Communication Services sectors, held up to 30 days to a profit target plus volume-climax exit."
 }
