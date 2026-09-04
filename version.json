@@ -1,6 +1,6 @@
 {
-  "version": 1595,
+  "version": 1596,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1595/qfam-v1595.apk",
-  "notes": "Sweet Spot strategy updates: enabled pre-market entries (data showed 24.5% big-win rate pre-market vs 7.6% regular hours) and added the standard Alpaca trading configuration (paper trading on, limit orders, position sizing) so it's ready to trade once you set your account. Verified the exit rules (profit target, volume climax, trail stop, stop loss, max hold days) were already correctly configured."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1596/qfam-v1596.apk",
+  "notes": "Bug fixes and improvements (v1596)"
 }
