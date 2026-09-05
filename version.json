@@ -1,6 +1,6 @@
 {
-  "version": 1614,
+  "version": 1615,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1614/qfam-v1614.apk",
-  "notes": "UI freeze fix during active crawls: cached strategy row lookups, tuned WAL checkpoint interval, per-symbol locking in pool sync"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1615/qfam-v1615.apk",
+  "notes": "Fix Google Drive/SFTP backup verification occasionally deleting a good backup after a transient re-check error"
 }
