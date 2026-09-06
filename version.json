@@ -1,6 +1,6 @@
 {
-  "version": 1616,
+  "version": 1617,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1616/qfam-v1616.apk",
-  "notes": "Fix backups still disappearing: old backup is no longer deleted until the new upload's integrity is confirmed (size/MD5 for Drive, size for SFTP); rename-only retry avoids re-uploading the whole file; wake lock now scales with backup size; connectivity retry loop capped"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1617/qfam-v1617.apk",
+  "notes": "Google Drive and SFTP backup uploads now run in parallel instead of one after the other"
 }
