@@ -1,6 +1,6 @@
 {
-  "version": 1617,
+  "version": 1618,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1617/qfam-v1617.apk",
-  "notes": "Google Drive and SFTP backup uploads now run in parallel instead of one after the other"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1618/qfam-v1618.apk",
+  "notes": "Trend signal age (and breakout-rise badge) now count trading sessions (Mon-Fri), not calendar days"
 }
