@@ -1,6 +1,6 @@
 {
-  "version": 1622,
+  "version": 1623,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1622/qfam-v1622.apk",
-  "notes": "Fix live price refresh's cancellation guard being a permanent no-op, which could let a stale in-flight refresh write over a fresher one"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1623/qfam-v1623.apk",
+  "notes": "Fix ANR: background remaining main-thread SQLite reads (strategy switch, Sector Monitor dialogs, startup settings check, live pullback indicators) that could stall on WAL busy_timeout colliding with the crawler process's writes"
 }
