@@ -1,6 +1,6 @@
 {
-  "version": 1621,
+  "version": 1622,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1621/qfam-v1621.apk",
-  "notes": "Fix combo strategies silently inheriting and running Follower/Recovery entries, which could stamp positions with a stale max-hold exit and fire real Alpaca sells"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1622/qfam-v1622.apk",
+  "notes": "Fix live price refresh's cancellation guard being a permanent no-op, which could let a stale in-flight refresh write over a fresher one"
 }
