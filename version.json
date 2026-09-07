@@ -1,6 +1,6 @@
 {
-  "version": 1620,
+  "version": 1621,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1620/qfam-v1620.apk",
-  "notes": "Restore the 'cloud verified' badge in the Drive/SFTP restore picker, now driven by the local pre-upload verification check"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1621/qfam-v1621.apk",
+  "notes": "Fix combo strategies silently inheriting and running Follower/Recovery entries, which could stamp positions with a stale max-hold exit and fire real Alpaca sells"
 }
