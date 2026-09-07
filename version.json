@@ -1,6 +1,6 @@
 {
-  "version": 1619,
+  "version": 1620,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1619/qfam-v1619.apk",
-  "notes": "Fix backups disappearing on both Drive and SFTP: content is now deep-verified locally before upload (not by re-downloading after), old backup is never pruned until the new one is validated, and a free-space check aborts cleanly before writing a doomed backup"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1620/qfam-v1620.apk",
+  "notes": "Restore the 'cloud verified' badge in the Drive/SFTP restore picker, now driven by the local pre-upload verification check"
 }
