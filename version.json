@@ -1,6 +1,6 @@
 {
-  "version": 1624,
+  "version": 1625,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1624/qfam-v1624.apk",
-  "notes": "Fix root cause of ANR: FloatingStockOverlayService's price-update receiver was doing a synchronous full-row DB query on the shared main thread every 15s while an overlay was open"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1625/qfam-v1625.apk",
+  "notes": "Fix :crawler process OOM crashes: lowered intraday quick-check concurrency from 5 to 2 workers to cap concurrent Yahoo chart JSON parsing memory"
 }
