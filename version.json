@@ -1,6 +1,6 @@
 {
-  "version": 1625,
+  "version": 1626,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1625/qfam-v1625.apk",
-  "notes": "Fix :crawler process OOM crashes: lowered intraday quick-check concurrency from 5 to 2 workers to cap concurrent Yahoo chart JSON parsing memory"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1626/qfam-v1626.apk",
+  "notes": "Bug fixes and improvements (v1626)"
 }
