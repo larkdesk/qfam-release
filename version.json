@@ -1,6 +1,6 @@
 {
-  "version": 1652,
+  "version": 1653,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1652/qfam-v1652.apk",
-  "notes": "Fix Alpaca badge getting stuck closed after a partial sell, and fix unrealized P&L / invested totals overstating for partially-sold positions"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1653/qfam-v1653.apk",
+  "notes": "Fix Alpaca badge healing so it runs continuously via TLC instead of only during market hours, and fix remaining shares vs shares_remaining gaps in the Open Positions header, widget rows, and floating window"
 }
