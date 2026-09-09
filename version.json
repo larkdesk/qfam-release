@@ -1,6 +1,6 @@
 {
-  "version": 1653,
+  "version": 1654,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1653/qfam-v1653.apk",
-  "notes": "Fix Alpaca badge healing so it runs continuously via TLC instead of only during market hours, and fix remaining shares vs shares_remaining gaps in the Open Positions header, widget rows, and floating window"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1654/qfam-v1654.apk",
+  "notes": "Fix Alpaca badge staying stale after healing (adapter wasn't notified), and add regression tests for the shares_remaining P&L fix"
 }
