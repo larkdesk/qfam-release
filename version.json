@@ -1,6 +1,6 @@
 {
-  "version": 1651,
+  "version": 1652,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1651/qfam-v1651.apk",
-  "notes": "Fix partial sell clearing a position's Alpaca badge/link, and fix Position Exit Monitor crawls overlapping after a cancel-and-replace"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1652/qfam-v1652.apk",
+  "notes": "Fix Alpaca badge getting stuck closed after a partial sell, and fix unrealized P&L / invested totals overstating for partially-sold positions"
 }
