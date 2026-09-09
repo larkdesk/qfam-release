@@ -1,6 +1,6 @@
 {
-  "version": 1657,
+  "version": 1658,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1657/qfam-v1657.apk",
-  "notes": "Redesign the Alpaca badge lookup to key on symbol instead of the unreliable open_position_id link"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1658/qfam-v1658.apk",
+  "notes": "Fix NULL account_id alpaca_orders rows only ever being checked against the paper account during badge reconciliation"
 }
