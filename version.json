@@ -1,6 +1,6 @@
 {
-  "version": 1654,
+  "version": 1655,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1654/qfam-v1654.apk",
-  "notes": "Fix Alpaca badge staying stale after healing (adapter wasn't notified), and add regression tests for the shares_remaining P&L fix"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1655/qfam-v1655.apk",
+  "notes": "Fix Alpaca badge staying orphaned due to an unset open_position_id on some alpaca_orders rows"
 }
