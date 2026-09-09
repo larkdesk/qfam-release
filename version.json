@@ -1,6 +1,6 @@
 {
-  "version": 1655,
+  "version": 1656,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1655/qfam-v1655.apk",
-  "notes": "Fix Alpaca badge staying orphaned due to an unset open_position_id on some alpaca_orders rows"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1656/qfam-v1656.apk",
+  "notes": "Add symbol-only fallback matching for the Alpaca badge fix and close a startup timing race"
 }
