@@ -1,6 +1,6 @@
 {
-  "version": 1659,
+  "version": 1660,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1659/qfam-v1659.apk",
-  "notes": "Fix Alpaca fill badge being hidden by a 7-day staleness check for positions bought more than a week ago"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1660/qfam-v1660.apk",
+  "notes": "Test coverage for the Alpaca fill-row staleness fix, plus a documented test inventory"
 }
