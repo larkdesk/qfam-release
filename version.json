@@ -1,6 +1,6 @@
 {
-  "version": 1664,
+  "version": 1665,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1664/qfam-v1664.apk",
-  "notes": "Extract widget Total Return/Avg-day formulas into pure, unit-tested functions (test coverage only, no behavior change)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1665/qfam-v1665.apk",
+  "notes": "Add Take Profits / Cut Losses options to Liquidate All in both the paper trading and Alpaca panels"
 }
