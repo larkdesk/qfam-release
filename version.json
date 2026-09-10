@@ -1,6 +1,6 @@
 {
-  "version": 1677,
+  "version": 1678,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1677/qfam-v1677.apk",
-  "notes": "Bug fixes and improvements (v1677)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1678/qfam-v1678.apk",
+  "notes": "Fix stop losses firing after-hours and ignoring min hold days (per-strategy guards, combo-safe)"
 }
