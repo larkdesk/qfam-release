@@ -1,6 +1,6 @@
 {
-  "version": 1661,
+  "version": 1662,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1661/qfam-v1661.apk",
-  "notes": "Fix Entry Rejections time-of-day pickers overwriting each other and add support for overnight (cross-midnight) time ranges"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1662/qfam-v1662.apk",
+  "notes": "Add Total Return and Avg/day to the widget's account blocks (3-column grid, no new rows)"
 }
