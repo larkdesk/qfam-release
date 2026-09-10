@@ -1,6 +1,6 @@
 {
-  "version": 1665,
+  "version": 1666,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1665/qfam-v1665.apk",
-  "notes": "Add Take Profits / Cut Losses options to Liquidate All in both the paper trading and Alpaca panels"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1666/qfam-v1666.apk",
+  "notes": "Bug fixes and improvements (v1666)"
 }
