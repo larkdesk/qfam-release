@@ -1,6 +1,6 @@
 {
-  "version": 1662,
+  "version": 1663,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1662/qfam-v1662.apk",
-  "notes": "Add Total Return and Avg/day to the widget's account blocks (3-column grid, no new rows)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1663/qfam-v1663.apk",
+  "notes": "Fix widget's Total Return / Avg-day to match Portfolio Summary's actual formula (realized + unrealized P&L, not equity minus starting capital)"
 }
