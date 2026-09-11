@@ -1,6 +1,6 @@
 {
-  "version": 1685,
+  "version": 1686,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1685/qfam-v1685.apk",
-  "notes": "Add a local max_open_positions cap per strategy (Strategy Settings \u2192 Position Sizing) \u2014 mirrors Alpaca's own per-strategy cap but leads it, including for combo strategies"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1686/qfam-v1686.apk",
+  "notes": "Add Stock Review Panel \u2014 opt-in manual approval queue for strategy entries, with expiry, single/bulk approval, and a Reviewed badge on positions"
 }
