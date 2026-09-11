@@ -1,6 +1,6 @@
 {
-  "version": 1682,
+  "version": 1683,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1682/qfam-v1682.apk",
-  "notes": "Fix misleading trade-detail text for Volume Shakeout and Breakout Pullback entries (entry gates were already correct \u2014 this fixes the confusing displayed numbers)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1683/qfam-v1683.apk",
+  "notes": "Fix trade-detail display for every strategy \u2014 no strategy's trade detail shows another strategy's numbers anymore, including combo constituents"
 }
