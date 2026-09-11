@@ -1,6 +1,6 @@
 {
-  "version": 1683,
+  "version": 1684,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1683/qfam-v1683.apk",
-  "notes": "Fix trade-detail display for every strategy \u2014 no strategy's trade detail shows another strategy's numbers anymore, including combo constituents"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1684/qfam-v1684.apk",
+  "notes": "Extend Phase 2/3 portfolio exits (portfolio target + greed cut) to Momentum Sprint, Momentum Rider, Accumulation Bar, and EOD Momentum"
 }
