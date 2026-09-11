@@ -1,6 +1,6 @@
 {
-  "version": 1679,
+  "version": 1680,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1679/qfam-v1679.apk",
-  "notes": "Hard-gate volume spike for Momentum Sprint \u2014 OBV/A-D can no longer substitute for missing volume"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1680/qfam-v1680.apk",
+  "notes": "Add Robolectric integration test infrastructure; proves SFM/BUD stop-loss scenario is caught"
 }
