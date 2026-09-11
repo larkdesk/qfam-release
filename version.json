@@ -1,6 +1,6 @@
 {
-  "version": 1681,
+  "version": 1682,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1681/qfam-v1681.apk",
-  "notes": "Widget label clarity (RETURN/UNREALIZED); PositionExitManager generalized into the universal Phase 1/2/3 exit manager for all strategies"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1682/qfam-v1682.apk",
+  "notes": "Fix misleading trade-detail text for Volume Shakeout and Breakout Pullback entries (entry gates were already correct \u2014 this fixes the confusing displayed numbers)"
 }
