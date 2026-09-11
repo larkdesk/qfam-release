@@ -1,6 +1,6 @@
 {
-  "version": 1680,
+  "version": 1681,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1680/qfam-v1680.apk",
-  "notes": "Add Robolectric integration test infrastructure; proves SFM/BUD stop-loss scenario is caught"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1681/qfam-v1681.apk",
+  "notes": "Widget label clarity (RETURN/UNREALIZED); PositionExitManager generalized into the universal Phase 1/2/3 exit manager for all strategies"
 }
