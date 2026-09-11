@@ -1,6 +1,6 @@
 {
-  "version": 1687,
+  "version": 1688,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1687/qfam-v1687.apk",
-  "notes": "Open positions panel: cards show cached data immediately on open, subtle flash when a card's price actually refreshes"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1688/qfam-v1688.apk",
+  "notes": "Open positions panel: cache-miss cards show Entry price immediately; win-rate/edge computation no longer delays other Tier 2 fields (MA levels, Alpaca fill, volume) on cold start"
 }
