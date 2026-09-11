@@ -1,6 +1,6 @@
 {
-  "version": 1684,
+  "version": 1685,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1684/qfam-v1684.apk",
-  "notes": "Extend Phase 2/3 portfolio exits (portfolio target + greed cut) to Momentum Sprint, Momentum Rider, Accumulation Bar, and EOD Momentum"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1685/qfam-v1685.apk",
+  "notes": "Add a local max_open_positions cap per strategy (Strategy Settings \u2192 Position Sizing) \u2014 mirrors Alpaca's own per-strategy cap but leads it, including for combo strategies"
 }
