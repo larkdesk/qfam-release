@@ -1,6 +1,6 @@
 {
-  "version": 1692,
+  "version": 1693,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1692/qfam-v1692.apk",
-  "notes": "Review Panel card overhaul: guidance-tier badges, full signal icon row, strategy/sector chips (Leading/Lagging), Stop Loss/Trail Stop chips, 1Y refresh, real volume/high-low/daily-change formats matching Open Positions; teal rolling-avg dot; card-tap opens stock detail"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1693/qfam-v1693.apk",
+  "notes": "Bug fixes and improvements (v1693)"
 }
