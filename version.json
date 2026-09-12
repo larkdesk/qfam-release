@@ -1,6 +1,6 @@
 {
-  "version": 1691,
+  "version": 1692,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1691/qfam-v1691.apk",
-  "notes": "Stock Review Panel redesign: 3 tabs (Pending/Expired/All Traded) with full open-position-style cards, two-phase cache-first loading, and a new right-edge filter ribbon (group/sort/screener)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1692/qfam-v1692.apk",
+  "notes": "Review Panel card overhaul: guidance-tier badges, full signal icon row, strategy/sector chips (Leading/Lagging), Stop Loss/Trail Stop chips, 1Y refresh, real volume/high-low/daily-change formats matching Open Positions; teal rolling-avg dot; card-tap opens stock detail"
 }
