@@ -1,6 +1,6 @@
 {
-  "version": 1688,
+  "version": 1689,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1688/qfam-v1688.apk",
-  "notes": "Open positions panel: cache-miss cards show Entry price immediately; win-rate/edge computation no longer delays other Tier 2 fields (MA levels, Alpaca fill, volume) on cold start"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1689/qfam-v1689.apk",
+  "notes": "Restored 'Create Combo' entry point for non-combo strategies; fixed 'Manage Combo' to scroll to the combo's Entry Sources section instead of opening the create-new-combo picker"
 }
