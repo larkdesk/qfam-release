@@ -1,6 +1,6 @@
 {
-  "version": 1689,
+  "version": 1691,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1689/qfam-v1689.apk",
-  "notes": "Restored 'Create Combo' entry point for non-combo strategies; fixed 'Manage Combo' to scroll to the combo's Entry Sources section instead of opening the create-new-combo picker"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1691/qfam-v1691.apk",
+  "notes": "Stock Review Panel redesign: 3 tabs (Pending/Expired/All Traded) with full open-position-style cards, two-phase cache-first loading, and a new right-edge filter ribbon (group/sort/screener)"
 }
