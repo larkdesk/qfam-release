@@ -1,6 +1,6 @@
 {
-  "version": 1712,
+  "version": 1713,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1712/qfam-v1712.apk",
-  "notes": "Bug fixes and improvements (v1712)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1713/qfam-v1713.apk",
+  "notes": "Add 1Y price/volume sparkline watermark to position and review cards"
 }
