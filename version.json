@@ -1,6 +1,6 @@
 {
-  "version": 1714,
+  "version": 1715,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1714/qfam-v1714.apk",
-  "notes": "Fix Review Panel entry/current price showing selected currency instead of $"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1715/qfam-v1715.apk",
+  "notes": "Add EOD signals only quick filter to Review Panel"
 }
