@@ -1,6 +1,6 @@
 {
-  "version": 1722,
+  "version": 1723,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1722/qfam-v1722.apk",
-  "notes": "Extend prev-close toggle to closed trades in All Traded"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1723/qfam-v1723.apk",
+  "notes": "Merge search box onto pill row, compact width, both panels"
 }
