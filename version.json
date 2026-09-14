@@ -1,6 +1,6 @@
 {
-  "version": 1724,
+  "version": 1725,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1724/qfam-v1724.apk",
-  "notes": "Label \ud83d\udd04 toggle with its actual date instead of implying yesterday"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1725/qfam-v1725.apk",
+  "notes": "Label rolling 20-day average with its real as-of date too"
 }
