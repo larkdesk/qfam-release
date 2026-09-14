@@ -1,6 +1,6 @@
 {
-  "version": 1729,
+  "version": 1730,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1729/qfam-v1729.apk",
-  "notes": "Remove the as-of date suffix from the rolling average readout"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1730/qfam-v1730.apk",
+  "notes": "Fix High/Low row to respect the toggle instead of showing entry-to-close extremes"
 }
