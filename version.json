@@ -1,6 +1,6 @@
 {
-  "version": 1730,
+  "version": 1731,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1730/qfam-v1730.apk",
-  "notes": "Fix High/Low row to respect the toggle instead of showing entry-to-close extremes"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1731/qfam-v1731.apk",
+  "notes": "Hide the Gap-Up Monitor page for strategies that don't use gap-up continuation"
 }
