@@ -1,6 +1,6 @@
 {
-  "version": 1719,
+  "version": 1720,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1719/qfam-v1719.apk",
-  "notes": "Add pause-filters toggle to Review Panel ribbon"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1720/qfam-v1720.apk",
+  "notes": "Add NR7/Inside Day/Pocket Pivot/VCP pills; add prev-close toggle to Review Panel cards"
 }
