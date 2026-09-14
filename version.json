@@ -1,6 +1,6 @@
 {
-  "version": 1728,
+  "version": 1729,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1728/qfam-v1728.apk",
-  "notes": "Fix toggle showing today's own session for actively-tracked (open position) symbols"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1729/qfam-v1729.apk",
+  "notes": "Remove the as-of date suffix from the rolling average readout"
 }
