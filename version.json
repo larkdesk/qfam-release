@@ -1,6 +1,6 @@
 {
-  "version": 1716,
+  "version": 1717,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1716/qfam-v1716.apk",
-  "notes": "Gap-Up Monitor + Review Panel tappable quick-filter pills; fix follower_max_hold firing on non-Follower strategies"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1717/qfam-v1717.apk",
+  "notes": "Review Panel signal-count pills (match Gap-Up Monitor); remove sector/industry from both scrollviews"
 }
