@@ -1,6 +1,6 @@
 {
-  "version": 1727,
+  "version": 1728,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1727/qfam-v1727.apk",
-  "notes": "Fix off-by-one: toggle now shows the actual prior close, not the session before it"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1728/qfam-v1728.apk",
+  "notes": "Fix toggle showing today's own session for actively-tracked (open position) symbols"
 }
