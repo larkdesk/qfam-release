@@ -1,6 +1,6 @@
 {
-  "version": 1721,
+  "version": 1722,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1721/qfam-v1721.apk",
-  "notes": "Prev-close toggle now switches bars/volume too; add Review Panel search bar"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1722/qfam-v1722.apk",
+  "notes": "Extend prev-close toggle to closed trades in All Traded"
 }
