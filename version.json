@@ -1,6 +1,6 @@
 {
-  "version": 1725,
+  "version": 1726,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1725/qfam-v1725.apk",
-  "notes": "Label rolling 20-day average with its real as-of date too"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1726/qfam-v1726.apk",
+  "notes": "Rolling average and avg-volume now actually switch with the toggle"
 }
