@@ -1,6 +1,6 @@
 {
-  "version": 1718,
+  "version": 1719,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1718/qfam-v1718.apk",
-  "notes": "Fix Review Panel pill counts not reflecting active ribbon filters"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1719/qfam-v1719.apk",
+  "notes": "Add pause-filters toggle to Review Panel ribbon"
 }
