@@ -1,6 +1,6 @@
 {
-  "version": 1745,
+  "version": 1746,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1745/qfam-v1745.apk",
-  "notes": "Add 'Stock rank' sort option (stock's rank among its industry peers) to Review Panel filter sheet"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1746/qfam-v1746.apk",
+  "notes": "Fix Review Panel signals/icons missing on initial load (auto-crawl missing 1Y data instead of requiring manual refresh)"
 }
