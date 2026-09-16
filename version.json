@@ -1,6 +1,6 @@
 {
-  "version": 1746,
+  "version": 1747,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1746/qfam-v1746.apk",
-  "notes": "Fix Review Panel signals/icons missing on initial load (auto-crawl missing 1Y data instead of requiring manual refresh)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1747/qfam-v1747.apk",
+  "notes": "Fix Review Panel signals/icons rendering late (eliminate redundant per-row OHLC recomputation of already-stored signal flags)"
 }
