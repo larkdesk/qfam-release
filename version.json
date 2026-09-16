@@ -1,6 +1,6 @@
 {
-  "version": 1748,
+  "version": 1749,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1748/qfam-v1748.apk",
-  "notes": "Fix Review Panel signal icons/Act EOD chip flashing empty on every panel refresh"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1749/qfam-v1749.apk",
+  "notes": "CRITICAL: fix Alpaca sell placed on account not enabled for the owning strategy (sellPartial account-enablement gate)"
 }
