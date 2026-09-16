@@ -1,6 +1,6 @@
 {
-  "version": 1747,
+  "version": 1748,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1747/qfam-v1747.apk",
-  "notes": "Fix Review Panel signals/icons rendering late (eliminate redundant per-row OHLC recomputation of already-stored signal flags)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1748/qfam-v1748.apk",
+  "notes": "Fix Review Panel signal icons/Act EOD chip flashing empty on every panel refresh"
 }
