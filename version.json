@@ -1,6 +1,6 @@
 {
-  "version": 1749,
+  "version": 1750,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1749/qfam-v1749.apk",
-  "notes": "CRITICAL: fix Alpaca sell placed on account not enabled for the owning strategy (sellPartial account-enablement gate)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1750/qfam-v1750.apk",
+  "notes": "Fix low-volume/entry-skip notifications still showing as audible heads-up (fresh notification channel + 4 more skip types silenced)"
 }
