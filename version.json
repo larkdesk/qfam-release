@@ -1,6 +1,6 @@
 {
-  "version": 1744,
+  "version": 1745,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1744/qfam-v1744.apk",
-  "notes": "Fix Alpaca low-volume entry-skip notifications firing audibly instead of silently"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1745/qfam-v1745.apk",
+  "notes": "Add 'Stock rank' sort option (stock's rank among its industry peers) to Review Panel filter sheet"
 }
