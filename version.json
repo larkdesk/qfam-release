@@ -1,6 +1,6 @@
 {
-  "version": 1753,
+  "version": 1754,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1753/qfam-v1753.apk",
-  "notes": "Add Today's P&L to home-screen widget account rows (paper + Alpaca)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1754/qfam-v1754.apk",
+  "notes": "Fix Top N filter: moved to upper ribbon section, fixed persistence bug, clarified label"
 }
