@@ -1,6 +1,6 @@
 {
-  "version": 1751,
+  "version": 1752,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1751/qfam-v1751.apk",
-  "notes": "Fix cloud backup: Google Drive rename failures (exponential backoff + cleanup) and SFTP 'inputstream is closed' uploads (socket read-timeout bug)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1752/qfam-v1752.apk",
+  "notes": "Add Top N quick filter (sector + stock industry rank) to Review Panel; harden low-volume notification silencing"
 }
