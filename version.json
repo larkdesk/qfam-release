@@ -1,6 +1,6 @@
 {
-  "version": 1755,
+  "version": 1756,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1755/qfam-v1755.apk",
-  "notes": "Fix widget Paper Today's P&L (was ~10x inflated) \u2014 reuse TradingStatsHelper's Net today instead of recomputing"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1756/qfam-v1756.apk",
+  "notes": "Add-shares-to-position feature with Alpaca auto-trigger; widget layout fix (TODAY under AVG/DAY)"
 }
