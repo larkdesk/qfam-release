@@ -1,6 +1,6 @@
 {
-  "version": 1754,
+  "version": 1755,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1754/qfam-v1754.apk",
-  "notes": "Fix Top N filter: moved to upper ribbon section, fixed persistence bug, clarified label"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1755/qfam-v1755.apk",
+  "notes": "Fix widget Paper Today's P&L (was ~10x inflated) \u2014 reuse TradingStatsHelper's Net today instead of recomputing"
 }
