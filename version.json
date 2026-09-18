@@ -1,6 +1,6 @@
 {
-  "version": 1761,
+  "version": 1762,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1761/qfam-v1761.apk",
-  "notes": "Fix bin-icon menu showing only Cancel (AlertDialog setMessage+setItems conflict)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1762/qfam-v1762.apk",
+  "notes": "Critical: fix cross-process stale Alpaca client cache that could dispatch real orders to a deleted/edited account"
 }
