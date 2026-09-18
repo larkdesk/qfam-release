@@ -1,6 +1,6 @@
 {
-  "version": 1760,
+  "version": 1761,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1760/qfam-v1760.apk",
-  "notes": "Multi-live-account robustness pass: fix Order Log cancel routing, sellPartial multi-account dispatch, cross-account fill-price contamination risk; remove dead legacy Alpaca settings UI"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1761/qfam-v1761.apk",
+  "notes": "Fix bin-icon menu showing only Cancel (AlertDialog setMessage+setItems conflict)"
 }
