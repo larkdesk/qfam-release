@@ -1,6 +1,6 @@
 {
-  "version": 1759,
+  "version": 1760,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1759/qfam-v1759.apk",
-  "notes": "Fix Top N% filter: OR logic instead of AND for sector/stock rank"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1760/qfam-v1760.apk",
+  "notes": "Multi-live-account robustness pass: fix Order Log cancel routing, sellPartial multi-account dispatch, cross-account fill-price contamination risk; remove dead legacy Alpaca settings UI"
 }
