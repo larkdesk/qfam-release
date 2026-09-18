@@ -1,6 +1,6 @@
 {
-  "version": 1758,
+  "version": 1759,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1758/qfam-v1758.apk",
-  "notes": "Fix widget Paper TODAY (all-strategies aggregation + pre-market baseline contamination); split Review Panel first paint for speed; replace Top N filter with Top N%"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1759/qfam-v1759.apk",
+  "notes": "Fix Top N% filter: OR logic instead of AND for sector/stock rank"
 }
