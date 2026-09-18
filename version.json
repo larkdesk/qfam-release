@@ -1,6 +1,6 @@
 {
-  "version": 1757,
+  "version": 1758,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1757/qfam-v1757.apk",
-  "notes": "Fix add-shares Alpaca dispatch (checkbox honored, account resolution fixed); push widget update after buy/add-shares; add Delete shares / Sell shares (local only) to bin-icon menu"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1758/qfam-v1758.apk",
+  "notes": "Fix widget Paper TODAY (all-strategies aggregation + pre-market baseline contamination); split Review Panel first paint for speed; replace Top N filter with Top N%"
 }
