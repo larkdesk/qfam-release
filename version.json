@@ -1,6 +1,6 @@
 {
-  "version": 1770,
+  "version": 1771,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1770/qfam-v1770.apk",
-  "notes": "Real-time EXT VOL / DIST alert badges on position cards, Review Panel cards and widget review strip. Badges are sticky: they stay until you tap the card, and expire at end of trading day."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1771/qfam-v1771.apk",
+  "notes": "Debug: Force Alert Badge (\u2630 menu) to verify EXT VOL / DIST badges on position cards, Review Panel and widget without a live signal; tap the card to clear."
 }
