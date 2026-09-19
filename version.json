@@ -1,6 +1,6 @@
 {
-  "version": 1765,
+  "version": 1766,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1765/qfam-v1765.apk",
-  "notes": "Widget review-strip performance: instant page navigation (no DB/network per tap), fixed sort order to match the Review Panel, and instant widget refresh when Review Panel filters change. Review Panel: SQL-level filter pushdown cuts All Traded load work for filtered views."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1766/qfam-v1766.apk",
+  "notes": "P0 fix: Review Panel All Traded tab showing 0 symbols (build 1765 SQL pushdown regression)"
 }
