@@ -1,6 +1,6 @@
 {
-  "version": 1767,
+  "version": 1768,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1767/qfam-v1767.apk",
-  "notes": "Widget review strip: tap a card to open its stock detail, and the volume multiplier now has its own visible line on each card."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1768/qfam-v1768.apk",
+  "notes": "URGENT: reverted the SQL-level filter pushdown that broke the All Traded tab (showed 0 symbols). All Traded now runs the exact query from before build 1765 \u2014 load then filter in-memory. Widget paging, sort order, card tap, and volume line from 1765-1767 are kept."
 }
