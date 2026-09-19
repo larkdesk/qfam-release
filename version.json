@@ -1,6 +1,6 @@
 {
-  "version": 1769,
+  "version": 1770,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1769/qfam-v1769.apk",
-  "notes": "Review Panel now auto-updates during crawl cycles: visible rows' prices/volume/ranks patch in place with no spinner, no scroll jump, and no re-sort (re-sort still deferred to your next manual filter/reload)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1770/qfam-v1770.apk",
+  "notes": "Real-time EXT VOL / DIST alert badges on position cards, Review Panel cards and widget review strip. Badges are sticky: they stay until you tap the card, and expire at end of trading day."
 }
