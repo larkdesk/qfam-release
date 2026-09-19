@@ -1,6 +1,6 @@
 {
-  "version": 1768,
+  "version": 1769,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1768/qfam-v1768.apk",
-  "notes": "URGENT: reverted the SQL-level filter pushdown that broke the All Traded tab (showed 0 symbols). All Traded now runs the exact query from before build 1765 \u2014 load then filter in-memory. Widget paging, sort order, card tap, and volume line from 1765-1767 are kept."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1769/qfam-v1769.apk",
+  "notes": "Review Panel now auto-updates during crawl cycles: visible rows' prices/volume/ranks patch in place with no spinner, no scroll jump, and no re-sort (re-sort still deferred to your next manual filter/reload)."
 }
