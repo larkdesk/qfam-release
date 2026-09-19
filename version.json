@@ -1,6 +1,6 @@
 {
-  "version": 1763,
+  "version": 1764,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1763/qfam-v1763.apk",
-  "notes": "Bug fixes: ghost positions stuck open after a confirmed Alpaca sell fill, weekend exits desyncing local positions from Alpaca, and a false Alpaca-sell-not-placed notification for strategies without Alpaca enabled (v1763)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1764/qfam-v1764.apk",
+  "notes": "Home screen widget: new pageable Review Stocks strip between the account blocks and open positions (filtered/sorted by your saved Review Panel settings), plus tighter account block spacing"
 }
