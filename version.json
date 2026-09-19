@@ -1,6 +1,6 @@
 {
-  "version": 1771,
+  "version": 1772,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1771/qfam-v1771.apk",
-  "notes": "Debug: Force Alert Badge (\u2630 menu) to verify EXT VOL / DIST badges on position cards, Review Panel and widget without a live signal; tap the card to clear."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1772/qfam-v1772.apk",
+  "notes": "Alert badges redesigned: a small red (EXT VOL) / orange (DIST) dot next to the symbol that stays for the rest of the trading day, no tap needed. New '\ud83d\udd34 Alerts' pill in the Review Panel filters to stocks with an active alert. Debug menu item removed."
 }
