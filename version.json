@@ -1,6 +1,6 @@
 {
-  "version": 1784,
+  "version": 1785,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1784/qfam-v1784.apk",
-  "notes": "Alert dots/pill/widget keep Friday's signals through the weekend, matching the chart flags"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1785/qfam-v1785.apk",
+  "notes": "Long-press chart: floating overlay hides while the landscape chart is open and returns when it closes; two-step Back"
 }
