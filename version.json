@@ -1,6 +1,6 @@
 {
-  "version": 1773,
+  "version": 1774,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1773/qfam-v1773.apk",
-  "notes": "Alert badges now evaluate in a single pass on every crawl path (per-card refresh, intraday, quick-check, full 1Y crawl) and are written immediately, so the dot appears on the first refresh and a full crawl badges every qualifying stock."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1774/qfam-v1774.apk",
+  "notes": "Alert badge dots now appear automatically after a crawl on the widget, Review Panel and Open Positions (v1774)"
 }
