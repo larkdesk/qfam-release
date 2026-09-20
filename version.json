@@ -1,6 +1,6 @@
 {
-  "version": 1785,
+  "version": 1786,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1785/qfam-v1785.apk",
-  "notes": "Long-press chart: floating overlay hides while the landscape chart is open and returns when it closes; two-step Back"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1786/qfam-v1786.apk",
+  "notes": "Widget self-healing: renders from persisted snapshot, keeps last good content, 5-min watchdog restarts services"
 }
