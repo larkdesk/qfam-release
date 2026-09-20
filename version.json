@@ -1,6 +1,6 @@
 {
-  "version": 1788,
+  "version": 1789,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1788/qfam-v1788.apk",
-  "notes": "Strategy settings changes now reach the crawler on its very next pass"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1789/qfam-v1789.apk",
+  "notes": "Settings saves now also refresh candidate-scoring thresholds and strategy names in the crawler"
 }
