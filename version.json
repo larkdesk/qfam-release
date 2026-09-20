@@ -1,6 +1,6 @@
 {
-  "version": 1780,
+  "version": 1781,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1780/qfam-v1780.apk",
-  "notes": "Signal flags adapt to the selected chart range; out-of-range signals are not drawn"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1781/qfam-v1781.apk",
+  "notes": "Fix: signal flags now show on daily charts (3M etc.) for weekend/after-hours stamped signals"
 }
