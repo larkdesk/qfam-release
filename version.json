@@ -1,6 +1,6 @@
 {
-  "version": 1772,
+  "version": 1773,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1772/qfam-v1772.apk",
-  "notes": "Alert badges redesigned: a small red (EXT VOL) / orange (DIST) dot next to the symbol that stays for the rest of the trading day, no tap needed. New '\ud83d\udd34 Alerts' pill in the Review Panel filters to stocks with an active alert. Debug menu item removed."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1773/qfam-v1773.apk",
+  "notes": "Alert badges now evaluate in a single pass on every crawl path (per-card refresh, intraday, quick-check, full 1Y crawl) and are written immediately, so the dot appears on the first refresh and a full crawl badges every qualifying stock."
 }
