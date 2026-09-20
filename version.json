@@ -1,6 +1,6 @@
 {
-  "version": 1786,
+  "version": 1787,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1786/qfam-v1786.apk",
-  "notes": "Widget self-healing: renders from persisted snapshot, keeps last good content, 5-min watchdog restarts services"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1787/qfam-v1787.apk",
+  "notes": "Widget refreshes immediately on any strategy settings change"
 }
