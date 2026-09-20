@@ -1,6 +1,6 @@
 {
-  "version": 1774,
+  "version": 1777,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1774/qfam-v1774.apk",
-  "notes": "Alert badge dots now appear automatically after a crawl on the widget, Review Panel and Open Positions (v1774)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1777/qfam-v1777.apk",
+  "notes": "Alert badge dots update automatically; test tasks now run sequentially (release.sh pipeline check)"
 }
