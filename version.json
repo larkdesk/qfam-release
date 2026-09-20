@@ -1,6 +1,6 @@
 {
-  "version": 1789,
+  "version": 1791,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1789/qfam-v1789.apk",
-  "notes": "Settings saves now also refresh candidate-scoring thresholds and strategy names in the crawler"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1791/qfam-v1791.apk",
+  "notes": "No more hard reload flash when returning to the app: panels refresh only when stale or invalidated"
 }
