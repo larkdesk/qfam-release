@@ -1,6 +1,6 @@
 {
-  "version": 1806,
+  "version": 1807,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1806/qfam-v1806.apk",
-  "notes": "Fix Alpaca paper Return/Avg-day (initial funding no longer counted twice); deposits reconciled against equity"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1807/qfam-v1807.apk",
+  "notes": "Fix Portfolio screen Today's P&L: deposits no longer counted as profit"
 }
