@@ -1,6 +1,6 @@
 {
-  "version": 1807,
+  "version": 1808,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1807/qfam-v1807.apk",
-  "notes": "Fix Portfolio screen Today's P&L: deposits no longer counted as profit"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1808/qfam-v1808.apk",
+  "notes": "Fix exit sells: live Alpaca account no longer waits behind paper; account-scoped pending sells; settle unsettled buys before exit"
 }
