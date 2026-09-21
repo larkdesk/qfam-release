@@ -1,6 +1,6 @@
 {
-  "version": 1801,
+  "version": 1802,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1801/qfam-v1801.apk",
-  "notes": "Fix remaining freeze on return: notification-log DB write moved off the main thread; main-thread stall stacks now logged"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1802/qfam-v1802.apk",
+  "notes": "Fix paper Today's P&L (widget + Portfolio Summary): computed from prior closes instead of a stale baseline"
 }
