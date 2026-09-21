@@ -1,6 +1,6 @@
 {
-  "version": 1800,
+  "version": 1801,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1800/qfam-v1800.apk",
-  "notes": "Fix 27s UI freezes on return: DB reads no longer wait for the process-wide write lock"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1801/qfam-v1801.apk",
+  "notes": "Fix remaining freeze on return: notification-log DB write moved off the main thread; main-thread stall stacks now logged"
 }
