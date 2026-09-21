@@ -1,6 +1,6 @@
 {
-  "version": 1804,
+  "version": 1805,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1804/qfam-v1804.apk",
-  "notes": "Widget: review strip no longer recomputed every tick (was 15-25 s, saturating disk); overlay opens without waiting on DB open pass"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1805/qfam-v1805.apk",
+  "notes": "Fix Alpaca live account: deposits no longer counted as Return/Today; correct Avg/day; Invested = cost"
 }
