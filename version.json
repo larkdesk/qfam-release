@@ -1,6 +1,6 @@
 {
-  "version": 1802,
+  "version": 1803,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1802/qfam-v1802.apk",
-  "notes": "Fix paper Today's P&L (widget + Portfolio Summary): computed from prior closes instead of a stale baseline"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1803/qfam-v1803.apk",
+  "notes": "Fix widget-tap stock overlay closing itself on cold start + lighter refresh; restore write lock on backup checkpoint"
 }
