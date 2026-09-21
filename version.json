@@ -1,6 +1,6 @@
 {
-  "version": 1795,
+  "version": 1797,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1795/qfam-v1795.apk",
-  "notes": "Fix: info button on Review Panel cards now opens (dialog attached to the Activity window)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1797/qfam-v1797.apk",
+  "notes": "Charger-connect path (backup + stock update start) fully off the main thread; safer backup/crawl locking"
 }
