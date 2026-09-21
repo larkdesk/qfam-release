@@ -1,6 +1,6 @@
 {
-  "version": 1798,
+  "version": 1799,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1798/qfam-v1798.apk",
-  "notes": "Fix app freeze/ANR when returning to the app (from on-device ANR traces): no startup badge backfill, no queued prefs writes from background work, background-priority review load, throttled Alpaca reconcile"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1799/qfam-v1799.apk",
+  "notes": "Fix ChargerJobWorker looping ~9x/second while charging (disk/DB saturation behind app freezes)"
 }
