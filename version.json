@@ -1,6 +1,6 @@
 {
-  "version": 1797,
+  "version": 1798,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1797/qfam-v1797.apk",
-  "notes": "Charger-connect path (backup + stock update start) fully off the main thread; safer backup/crawl locking"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1798/qfam-v1798.apk",
+  "notes": "Fix app freeze/ANR when returning to the app (from on-device ANR traces): no startup badge backfill, no queued prefs writes from background work, background-priority review load, throttled Alpaca reconcile"
 }
