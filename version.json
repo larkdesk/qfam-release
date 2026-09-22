@@ -1,6 +1,6 @@
 {
-  "version": 1823,
+  "version": 1824,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1823/qfam-v1823.apk",
-  "notes": "Fix adopt-position dialog: Adopt/Cancel buttons were being pushed off-screen on some devices"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1824/qfam-v1824.apk",
+  "notes": "Fix positions showing as linked (blocking long-press adopt) with no real local position behind them"
 }
