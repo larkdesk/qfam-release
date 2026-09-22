@@ -1,6 +1,6 @@
 {
-  "version": 1825,
+  "version": 1826,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1825/qfam-v1825.apk",
-  "notes": "Fix BRR permanently stuck/unclosable: Alpaca confirms the asset is dead (HTTP 422), positions now resolve to the current symbol (SVIA) on load"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1826/qfam-v1826.apk",
+  "notes": "Bug fixes and improvements (v1826)"
 }
