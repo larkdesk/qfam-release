@@ -1,6 +1,6 @@
 {
-  "version": 1821,
+  "version": 1823,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1821/qfam-v1821.apk",
-  "notes": "Fix SVIA showing garbage/empty data (leftover stub row of a different type)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1823/qfam-v1823.apk",
+  "notes": "Fix adopt-position dialog: Adopt/Cancel buttons were being pushed off-screen on some devices"
 }
