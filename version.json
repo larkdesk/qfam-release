@@ -1,6 +1,6 @@
 {
-  "version": 1813,
+  "version": 1814,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1813/qfam-v1813.apk",
-  "notes": "Fix: ghost-close no longer deletes a shared position another linked account still holds; unresolvable account routing now fails closed instead of trading every account"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1814/qfam-v1814.apk",
+  "notes": "One-time fix: rename BRR to SVIA everywhere the app tracks current state (real broker ticker rename, not a sale)"
 }
