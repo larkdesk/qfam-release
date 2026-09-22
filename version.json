@@ -1,6 +1,6 @@
 {
-  "version": 1814,
+  "version": 1816,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1814/qfam-v1814.apk",
-  "notes": "One-time fix: rename BRR to SVIA everywhere the app tracks current state (real broker ticker rename, not a sale)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1816/qfam-v1816.apk",
+  "notes": "Fix: floating overlay no longer closes instantly when opened from a Recent Trades card for a renamed symbol (BRR/SVIA)"
 }
