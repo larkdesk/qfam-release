@@ -1,6 +1,6 @@
 {
-  "version": 1809,
+  "version": 1810,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1809/qfam-v1809.apk",
-  "notes": "Entry-time sector/industry rank snapshot with entry to now indicator on all cards and widget; alert dots on widget position rows"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1810/qfam-v1810.apk",
+  "notes": "Remove redundant own-strategy-name chip from Open Positions/Review/Recent Trades cards"
 }
