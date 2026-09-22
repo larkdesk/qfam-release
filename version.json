@@ -1,6 +1,6 @@
 {
-  "version": 1819,
+  "version": 1821,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1819/qfam-v1819.apk",
-  "notes": "Add manual adopt-position recovery (long-press an unlinked Alpaca position to link it to a strategy with real entry data); fix migration flag versioning so the trade_history rename actually runs"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v1821/qfam-v1821.apk",
+  "notes": "Fix SVIA showing garbage/empty data (leftover stub row of a different type)"
 }
