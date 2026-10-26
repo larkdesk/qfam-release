@@ -1,6 +1,6 @@
 {
-  "version": 2184,
+  "version": 2185,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2184/qfam-v2184.apk",
-  "notes": "Bug fixes and improvements (v2184)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2185/qfam-v2185.apk",
+  "notes": "After-hours sells no longer trust a bid far below the real price."
 }
