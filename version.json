@@ -1,6 +1,6 @@
 {
-  "version": 2391,
+  "version": 2392,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2391/qfam-v2391.apk",
-  "notes": "VPN in backups (login encrypted with a passphrase); code review clean-ups"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2392/qfam-v2392.apk",
+  "notes": "\ud83d\udcb1 Currency converter: all currencies, live rates, calculator keypad, drag to order, language switch; subtle edge tab on every screen and in the widget header"
 }
