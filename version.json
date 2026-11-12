@@ -1,6 +1,6 @@
 {
-  "version": 2387,
+  "version": 2388,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2387/qfam-v2387.apk",
-  "notes": "VPN: fix tunnel service crash on connect"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2388/qfam-v2388.apk",
+  "notes": "VPN: server priority, speed measuring, settings checks"
 }
