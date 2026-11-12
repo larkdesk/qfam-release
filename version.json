@@ -1,6 +1,6 @@
 {
-  "version": 2385,
+  "version": 2386,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2385/qfam-v2385.apk",
-  "notes": "VPN: fix app closing when connecting"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2386/qfam-v2386.apk",
+  "notes": "VPN: login sheet edge, stuck test state"
 }
