@@ -1,6 +1,6 @@
 {
-  "version": 2393,
+  "version": 2394,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2393/qfam-v2393.apk",
-  "notes": "\ud83d\udcb1 Converter button in the bottom toolbar; long-press EUR|USD switch opens the converter"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2394/qfam-v2394.apk",
+  "notes": "Widget \ud83d\udcb1 button: bigger tap target so it opens the converter reliably"
 }
