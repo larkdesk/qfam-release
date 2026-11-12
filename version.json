@@ -1,6 +1,6 @@
 {
-  "version": 2379,
+  "version": 2380,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2379/qfam-v2379.apk",
-  "notes": "Bug fixes and improvements (v2379)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2380/qfam-v2380.apk",
+  "notes": "Scheduled VPN: import Proton .ovpn files, nightly window, server rotation"
 }
