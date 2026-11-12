@@ -1,6 +1,6 @@
 {
-  "version": 2384,
+  "version": 2385,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2384/qfam-v2384.apk",
-  "notes": "VPN fix: servers no longer wrongly rested; VPN follows stock update; compact widget chip"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2385/qfam-v2385.apk",
+  "notes": "VPN: fix app closing when connecting"
 }
