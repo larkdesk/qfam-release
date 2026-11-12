@@ -1,6 +1,6 @@
 {
-  "version": 2388,
+  "version": 2389,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2388/qfam-v2388.apk",
-  "notes": "VPN: server priority, speed measuring, settings checks"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2389/qfam-v2389.apk",
+  "notes": "VPN screen: buttons wrap"
 }
