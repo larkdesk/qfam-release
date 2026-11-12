@@ -1,6 +1,6 @@
 {
-  "version": 2381,
+  "version": 2382,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2381/qfam-v2381.apk",
-  "notes": "Fix app icon; VPN moved to Settings"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2382/qfam-v2382.apk",
+  "notes": "VPN: test login & connection; login sheet restyle"
 }
