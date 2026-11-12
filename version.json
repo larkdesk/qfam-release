@@ -1,6 +1,6 @@
 {
-  "version": 2395,
+  "version": 2396,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2395/qfam-v2395.apk",
-  "notes": "Closing buys: stocks queued for the close get their daily history refreshed at the 2-min heads-up and at the buy second, so they are verified instead of skipped; every skip states the real reason"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2396/qfam-v2396.apk",
+  "notes": "Closing buys/sells: presets without a dip part never act on stale stored data; skip lines say why"
 }
