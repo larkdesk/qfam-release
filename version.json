@@ -1,6 +1,6 @@
 {
-  "version": 2389,
+  "version": 2390,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2389/qfam-v2389.apk",
-  "notes": "VPN screen: buttons wrap"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2390/qfam-v2390.apk",
+  "notes": "VPN: drag-and-drop server order screen"
 }
