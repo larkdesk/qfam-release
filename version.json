@@ -1,6 +1,6 @@
 {
-  "version": 2399,
+  "version": 2400,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2399/qfam-v2399.apk",
-  "notes": "Widget: the \ud83d\udcb1 currency converter button moved to the footer next to refresh, within easy thumb reach"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2400/qfam-v2400.apk",
+  "notes": "Quick Actions menu no longer cut off at the bottom"
 }
