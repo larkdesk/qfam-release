@@ -1,6 +1,6 @@
 {
-  "version": 2410,
+  "version": 2411,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2410/qfam-v2410.apk",
-  "notes": "Widget market count matches the Market tab (traded stocks in the market count too)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2411/qfam-v2411.apk",
+  "notes": "Review panel loads faster: spike chips no longer recompute each stock's normal move unless the chip uses it"
 }
