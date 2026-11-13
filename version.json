@@ -1,6 +1,6 @@
 {
-  "version": 2408,
+  "version": 2409,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2408/qfam-v2408.apk",
-  "notes": "Automation line counts all queued closing orders (rules + by hand)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2409/qfam-v2409.apk",
+  "notes": "Alpaca sells: free shares held by other open sells and retry when refused for insufficient qty"
 }
