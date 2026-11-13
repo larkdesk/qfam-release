@@ -1,6 +1,6 @@
 {
-  "version": 2407,
+  "version": 2408,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2407/qfam-v2407.apk",
-  "notes": "Widget: automation line opens the Closing buys list"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2408/qfam-v2408.apk",
+  "notes": "Automation line counts all queued closing orders (rules + by hand)"
 }
