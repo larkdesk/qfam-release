@@ -1,6 +1,6 @@
 {
-  "version": 2404,
+  "version": 2405,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2404/qfam-v2404.apk",
-  "notes": "VPN: a check alarm keeps running outside the window so it turns off after the update"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2405/qfam-v2405.apk",
+  "notes": "Widget: tap the VPN line to open the VPN screen"
 }
