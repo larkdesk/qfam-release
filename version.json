@@ -1,6 +1,6 @@
 {
-  "version": 2397,
+  "version": 2398,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2397/qfam-v2397.apk",
-  "notes": "Closing buys/sells: queued stocks are refreshed 4 min before the close (dip history + normal stock update) so every preset is verified on today's data"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2398/qfam-v2398.apk",
+  "notes": "Closing buys/sells: a stock that can't be verified or brought up to date is tried again (refresh rounds before the close, then re-checks with fresh data) instead of being skipped on the first miss"
 }
