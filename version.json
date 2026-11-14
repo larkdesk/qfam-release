@@ -1,6 +1,6 @@
 {
-  "version": 2415,
+  "version": 2416,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2415/qfam-v2415.apk",
-  "notes": "Review panel loads smoother: the order check and widget lists wait while the Review screen is loading"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2416/qfam-v2416.apk",
+  "notes": "Market tab waits for the Review screen to finish loading, so the two stop slowing each other down"
 }
