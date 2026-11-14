@@ -1,6 +1,6 @@
 {
-  "version": 2416,
+  "version": 2417,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2416/qfam-v2416.apk",
-  "notes": "Market tab waits for the Review screen to finish loading, so the two stop slowing each other down"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2417/qfam-v2417.apk",
+  "notes": "Stall reports now list each load step with its timing, so the slow step can be found and fixed"
 }
