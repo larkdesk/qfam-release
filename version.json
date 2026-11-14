@@ -1,6 +1,6 @@
 {
-  "version": 2412,
+  "version": 2413,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2412/qfam-v2412.apk",
-  "notes": "Alpaca status shows how long the issue has been flagged; stale 'buy queued' line removed from the widget once the queue is empty"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2413/qfam-v2413.apk",
+  "notes": "VPN no longer sticks on connecting after it is up; gives up on a silent server after 35 s; widget VPN chip shows the connected flag"
 }
