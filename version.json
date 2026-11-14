@@ -1,6 +1,6 @@
 {
-  "version": 2411,
+  "version": 2412,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2411/qfam-v2411.apk",
-  "notes": "Review panel loads faster: spike chips no longer recompute each stock's normal move unless the chip uses it"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2412/qfam-v2412.apk",
+  "notes": "Alpaca status shows how long the issue has been flagged; stale 'buy queued' line removed from the widget once the queue is empty"
 }
