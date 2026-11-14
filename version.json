@@ -1,6 +1,6 @@
 {
-  "version": 2413,
+  "version": 2414,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2413/qfam-v2413.apk",
-  "notes": "VPN no longer sticks on connecting after it is up; gives up on a silent server after 35 s; widget VPN chip shows the connected flag"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2414/qfam-v2414.apk",
+  "notes": "VPN switches servers faster: next server 2.5 s after a failure, silent server dropped after 25 s"
 }
