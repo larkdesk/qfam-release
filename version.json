@@ -1,6 +1,6 @@
 {
-  "version": 2419,
+  "version": 2420,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2419/qfam-v2419.apk",
-  "notes": "VPN: a stale 'waiting' / 'shared' state is re-checked at app start and every 3 minutes"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2420/qfam-v2420.apk",
+  "notes": "VPN: 'shared tunnel' now read live from Android in the widget chip, VPN screen and notification"
 }
