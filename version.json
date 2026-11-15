@@ -1,6 +1,6 @@
 {
-  "version": 2420,
+  "version": 2421,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2420/qfam-v2420.apk",
-  "notes": "VPN: 'shared tunnel' now read live from Android in the widget chip, VPN screen and notification"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2421/qfam-v2421.apk",
+  "notes": "VPN: QFam waits 45 s after another VPN disappears before taking the single VPN slot, so it stops knocking QBrowser's VPN out; stale 'VPN waiting' removed"
 }
