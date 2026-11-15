@@ -1,6 +1,6 @@
 {
-  "version": 2424,
+  "version": 2425,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2424/qfam-v2424.apk",
-  "notes": "VPN: QFam no longer drops another app's VPN when the VPN screen opens or a stock update starts (it no longer asks Android for VPN permission while a VPN is on); opening the app/VPN screen never starts or stops a VPN"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2425/qfam-v2425.apk",
+  "notes": "VPN screen: grey 'Shared VPN is on' button instead of Disconnect while another Q app's VPN is used"
 }
