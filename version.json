@@ -1,6 +1,6 @@
 {
-  "version": 2429,
+  "version": 2430,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2429/qfam-v2429.apk",
-  "notes": "VPN: Fastest working server \u2014 health check after every connect, background speed test, 48 h speed memory, up to 4 tries, speed line per server, VPN log (long-press the status card)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2430/qfam-v2430.apk",
+  "notes": "Stock update waits (up to 60 s) while the VPN is connecting or switching server, and says so in its notification"
 }
