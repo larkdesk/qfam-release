@@ -1,6 +1,6 @@
 {
-  "version": 2422,
+  "version": 2424,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2422/qfam-v2422.apk",
-  "notes": "VPN: one whole-phone VPN shared with the other Q apps. A VPN already on is used (no waiting, no second VPN); QFam only stops a VPN it started"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2424/qfam-v2424.apk",
+  "notes": "VPN: QFam no longer drops another app's VPN when the VPN screen opens or a stock update starts (it no longer asks Android for VPN permission while a VPN is on); opening the app/VPN screen never starts or stops a VPN"
 }
