@@ -1,6 +1,6 @@
 {
-  "version": 2421,
+  "version": 2422,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2421/qfam-v2421.apk",
-  "notes": "VPN: QFam waits 45 s after another VPN disappears before taking the single VPN slot, so it stops knocking QBrowser's VPN out; stale 'VPN waiting' removed"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2422/qfam-v2422.apk",
+  "notes": "VPN: one whole-phone VPN shared with the other Q apps. A VPN already on is used (no waiting, no second VPN); QFam only stops a VPN it started"
 }
