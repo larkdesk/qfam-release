@@ -1,6 +1,6 @@
 {
-  "version": 2426,
+  "version": 2427,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2426/qfam-v2426.apk",
-  "notes": "VPN: 'Fastest server first' \u2014 QFam connects to the server with the best known download speed, learned from real connections or \ud83d\udcf6 Measure"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2427/qfam-v2427.apk",
+  "notes": "Review loads faster: spike chip matching no longer re-sorts each stock's normal move hundreds of times"
 }
