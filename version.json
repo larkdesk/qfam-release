@@ -1,6 +1,6 @@
 {
-  "version": 2427,
+  "version": 2428,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2427/qfam-v2427.apk",
-  "notes": "Review loads faster: spike chip matching no longer re-sorts each stock's normal move hundreds of times"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2428/qfam-v2428.apk",
+  "notes": "DNS: reuse good lookups for 3 min, fall back to the last good answer on a timeout, and resolve qfam.ifidel.com on its own pool (slow VPN DNS no longer blocks loading)"
 }
