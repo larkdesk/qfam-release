@@ -1,6 +1,6 @@
 {
-  "version": 2425,
+  "version": 2426,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2425/qfam-v2425.apk",
-  "notes": "VPN screen: grey 'Shared VPN is on' button instead of Disconnect while another Q app's VPN is used"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2426/qfam-v2426.apk",
+  "notes": "VPN: 'Fastest server first' \u2014 QFam connects to the server with the best known download speed, learned from real connections or \ud83d\udcf6 Measure"
 }
