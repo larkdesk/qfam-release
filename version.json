@@ -1,6 +1,6 @@
 {
-  "version": 2418,
+  "version": 2419,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2418/qfam-v2418.apk",
-  "notes": "VPN: when another app's VPN (e.g. QBrowser) already covers QFam, QFam shows 'shared tunnel' instead of 'VPN waiting' and starts no VPN of its own"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2419/qfam-v2419.apk",
+  "notes": "VPN: a stale 'waiting' / 'shared' state is re-checked at app start and every 3 minutes"
 }
