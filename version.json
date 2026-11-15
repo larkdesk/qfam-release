@@ -1,6 +1,6 @@
 {
-  "version": 2431,
+  "version": 2432,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2431/qfam-v2431.apk",
-  "notes": "Cloud backup: turning a VPN on no longer cancels a Wi-Fi-only upload; SFTP resumes a partial upload instead of restarting"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2432/qfam-v2432.apk",
+  "notes": "Cloud backup: waits and retries (up to 8) when the connection breaks, e.g. while a VPN switches; SFTP 'Pipe closed' now resumes"
 }
