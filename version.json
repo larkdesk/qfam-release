@@ -1,6 +1,6 @@
 {
-  "version": 2439,
+  "version": 2440,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2439/qfam-v2439.apk",
-  "notes": "Code review: fixes a VPN server-hop bug, removes dead code and dead manifest entries, minSdk 26, more tests"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2440/qfam-v2440.apk",
+  "notes": "Lint clean-up: safer database column lookups, in-app theme broadcast, lint baseline for future checks"
 }
