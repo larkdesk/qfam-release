@@ -1,6 +1,6 @@
 {
-  "version": 2434,
+  "version": 2435,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2434/qfam-v2434.apk",
-  "notes": "Cloud upload pauses while a QFam screen is in use (and says so), continues when you leave; fixes Open Positions / Review loads stalling during a backup upload"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2435/qfam-v2435.apk",
+  "notes": "VPN notification: one item named 'QFam VPN - server' with the speed, instead of two"
 }
