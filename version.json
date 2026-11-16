@@ -1,6 +1,6 @@
 {
-  "version": 2436,
+  "version": 2437,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2436/qfam-v2436.apk",
-  "notes": "VPN: a stale 'connected' left after an update is shown as not connected and re-checked within 15 s"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2437/qfam-v2437.apk",
+  "notes": "Widget: the VPN chip is back and always shown (next start time, on, or off)"
 }
