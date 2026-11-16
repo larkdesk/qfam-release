@@ -1,6 +1,6 @@
 {
-  "version": 2441,
+  "version": 2442,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2441/qfam-v2441.apk",
-  "notes": "Internal: Market tab rows, spike sort keys and Review row builders moved out of MainActivity (no visible change), with tests"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2442/qfam-v2442.apk",
+  "notes": "Internal: VPN server-choice decisions and SFTP resume plan made testable (no visible change), more tests"
 }
