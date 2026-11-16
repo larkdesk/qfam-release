@@ -1,6 +1,6 @@
 {
-  "version": 2443,
+  "version": 2444,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2443/qfam-v2443.apk",
-  "notes": "Review and Open Positions load faster: spike data is cached 3 min instead of 30 s and background jobs wait while a screen is loading"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2444/qfam-v2444.apk",
+  "notes": "Buy picker: pick which Alpaca account the order goes to (your last manual buy's account is pre-ticked, real money shows in red and Buy stays off until an account is picked), and buy a smaller amount than the strategy's slot (never above its own or its Alpaca slot). Kept through retries and \u23f0 At close."
 }
