@@ -1,6 +1,6 @@
 {
-  "version": 2435,
+  "version": 2436,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2435/qfam-v2435.apk",
-  "notes": "VPN notification: one item named 'QFam VPN - server' with the speed, instead of two"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2436/qfam-v2436.apk",
+  "notes": "VPN: a stale 'connected' left after an update is shown as not connected and re-checked within 15 s"
 }
