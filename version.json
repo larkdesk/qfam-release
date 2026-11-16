@@ -1,6 +1,6 @@
 {
-  "version": 2445,
+  "version": 2446,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2445/qfam-v2445.apk",
-  "notes": "Buy picker: average-down chips. When a strategy holds the stock under its entry price, tap 25% / 50% / 75% to fill in the dollars that lift your break-even that far back toward the entry; the new break-even is shown. Still never above the strategy's slot."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2446/qfam-v2446.apk",
+  "notes": "Buy picker made easier to follow: one 'How much' section (Full size / Custom / Avg down) with the chosen chip lit, a plain break-even result line, and the Alpaca card showing the same size. The Buy button now always stays on screen and the account rows are shorter."
 }
