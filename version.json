@@ -1,6 +1,6 @@
 {
-  "version": 2437,
+  "version": 2438,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2437/qfam-v2437.apk",
-  "notes": "Widget: the VPN chip is back and always shown (next start time, on, or off)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2438/qfam-v2438.apk",
+  "notes": "VPN: QFam now notices at once when the shared (QBrowser) VPN disconnects and takes over during its schedule window"
 }
