@@ -1,6 +1,6 @@
 {
-  "version": 2438,
+  "version": 2439,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2438/qfam-v2438.apk",
-  "notes": "VPN: QFam now notices at once when the shared (QBrowser) VPN disconnects and takes over during its schedule window"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2439/qfam-v2439.apk",
+  "notes": "Code review: fixes a VPN server-hop bug, removes dead code and dead manifest entries, minSdk 26, more tests"
 }
