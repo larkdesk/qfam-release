@@ -1,6 +1,6 @@
 {
-  "version": 2446,
+  "version": 2447,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2446/qfam-v2446.apk",
-  "notes": "Buy picker made easier to follow: one 'How much' section (Full size / Custom / Avg down) with the chosen chip lit, a plain break-even result line, and the Alpaca card showing the same size. The Buy button now always stays on screen and the account rows are shorter."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2447/qfam-v2447.apk",
+  "notes": "Review chips no longer disappear when the list is empty or the Market list is still gathering: they show at 0 (dimmed) so filters and the Market chip stay reachable."
 }
