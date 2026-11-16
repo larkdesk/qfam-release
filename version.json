@@ -1,6 +1,6 @@
 {
-  "version": 2442,
+  "version": 2443,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2442/qfam-v2442.apk",
-  "notes": "Internal: VPN server-choice decisions and SFTP resume plan made testable (no visible change), more tests"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2443/qfam-v2443.apk",
+  "notes": "Review and Open Positions load faster: spike data is cached 3 min instead of 30 s and background jobs wait while a screen is loading"
 }
