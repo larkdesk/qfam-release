@@ -1,6 +1,6 @@
 {
-  "version": 2447,
+  "version": 2449,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2447/qfam-v2447.apk",
-  "notes": "Review chips no longer disappear when the list is empty or the Market list is still gathering: they show at 0 (dimmed) so filters and the Market chip stay reachable."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2449/qfam-v2449.apk",
+  "notes": "Release pipeline check with new token (no app changes)"
 }
