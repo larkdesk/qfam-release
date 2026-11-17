@@ -1,6 +1,6 @@
 {
-  "version": 2451,
+  "version": 2452,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2451/qfam-v2451.apk",
-  "notes": "Market weak/positive line now identical in panel and widget; dip-fade dialog matches its card (title, volume); dip cards show how many days in a row the industry/sector were weak while the stock held up"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2452/qfam-v2452.apk",
+  "notes": "Dip cards on Open Positions now show how many days in a row the industry/sector were weak (Sector Monitor data) while the stock held"
 }
