@@ -1,6 +1,6 @@
 {
-  "version": 2449,
+  "version": 2450,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2449/qfam-v2449.apk",
-  "notes": "Release pipeline check with new token (no app changes)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2450/qfam-v2450.apk",
+  "notes": "Finance dialogs redesigned: envelope add/edit, copy expenses, expense calculator and price alert now match the card style (no more yellow buttons)"
 }
