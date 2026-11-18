@@ -1,6 +1,6 @@
 {
-  "version": 2454,
+  "version": 2455,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2454/qfam-v2454.apk",
-  "notes": "\ud83d\udd12 Lock a position: a lock button at the start of the card's action buttons keeps a stock from being sold by a stopped-matching rule (skipped) or closed, partly sold or deleted by hand, for a period you choose (days left shown, change or unlock any time). You can still buy more shares."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2455/qfam-v2455.apk",
+  "notes": "\ud83d\udd12 Lock now counts trading days (weekends and holidays skipped) with a days-left counter on the card; the lock also shows on widget positions (tap to lock, change or unlock); hidden on Review rows."
 }
