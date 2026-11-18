@@ -1,6 +1,6 @@
 {
-  "version": 2455,
+  "version": 2456,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2455/qfam-v2455.apk",
-  "notes": "\ud83d\udd12 Lock now counts trading days (weekends and holidays skipped) with a days-left counter on the card; the lock also shows on widget positions (tap to lock, change or unlock); hidden on Review rows."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2456/qfam-v2456.apk",
+  "notes": "\ud83d\udd12 Widget: the lock chip (\ud83d\udd12 3d) now shows only on locked stocks, right beside the ticker."
 }
