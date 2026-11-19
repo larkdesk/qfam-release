@@ -1,6 +1,6 @@
 {
-  "version": 2457,
+  "version": 2458,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2457/qfam-v2457.apk",
-  "notes": "\ud83d\udcf2 Widget: the \ud83c\udf10 market counts and market stocks now update by themselves with the app closed (before, they only refreshed after opening the app)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2458/qfam-v2458.apk",
+  "notes": "\u2601\ufe0f Cloud backup: a broken connection no longer restarts the Google Drive upload from zero (it resumes where Drive left off), and uploads now go over Wi-Fi directly instead of through QFam's VPN."
 }
