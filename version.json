@@ -1,6 +1,6 @@
 {
-  "version": 2463,
+  "version": 2464,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2463/qfam-v2463.apk",
-  "notes": "Stock window chart retries by itself when a range comes back empty, fails or hangs (no more blank chart until you reopen); chart signal chips always use daily bars"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2464/qfam-v2464.apk",
+  "notes": "Widget shows continuation signals: open position rows list the last 3 (how long ago, price then, change since); review cards show the newest"
 }
