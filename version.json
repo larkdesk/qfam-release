@@ -1,6 +1,6 @@
 {
-  "version": 2460,
+  "version": 2461,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2460/qfam-v2460.apk",
-  "notes": "Chart card shows the last 3 continuation signals: how long ago (days / months / years), the price then and the change since"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2461/qfam-v2461.apk",
+  "notes": "Open position and Review cards show the last 3 continuation signals: how long ago (days / months / years), price then and change since. Removed the signal chips from the chart card."
 }
