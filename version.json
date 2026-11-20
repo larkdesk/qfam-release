@@ -1,6 +1,6 @@
 {
-  "version": 2467,
+  "version": 2468,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2467/qfam-v2467.apk",
-  "notes": "Market stocks now show a small \ud83c\udf10 after the ticker (Market tab cards and the widget's review cards), so they read apart from your own stocks at a glance"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2468/qfam-v2468.apk",
+  "notes": "Continuation signals now come with a staircase line: are the signal prices stepping up, flat or broken, how often they fire, and when the next is due. Same on the open position and review cards, the chart card and the widget"
 }
