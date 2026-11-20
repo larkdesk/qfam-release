@@ -1,6 +1,6 @@
 {
-  "version": 2466,
+  "version": 2467,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2466/qfam-v2466.apk",
-  "notes": "Cloud backup: if Android refuses the network the backup was bound to (EPERM), the SFTP copy now connects the normal way instead of failing"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2467/qfam-v2467.apk",
+  "notes": "Market stocks now show a small \ud83c\udf10 after the ticker (Market tab cards and the widget's review cards), so they read apart from your own stocks at a glance"
 }
