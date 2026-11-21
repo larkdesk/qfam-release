@@ -1,6 +1,6 @@
 {
-  "version": 2475,
+  "version": 2476,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2475/qfam-v2475.apk",
-  "notes": "Market counts now agree everywhere (presets sheet, Snapshots, Market tab, widget): every match in the market universe, your own stocks included. Snapshot count pills no longer wrap on big numbers. Tap Every preset now to refresh old snapshots"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2476/qfam-v2476.apk",
+  "notes": "Staircase rhythm now uses the whole year of signals (median gap; needs 4+ signals, irregular timing is called irregular). New \ud83c\udfaf follow-through: how many past signals closed higher 10 days later, on every card, a sentence on the chart, a \ud83c\udfaf Worked often chip + preset and a Follow-through sort. No full crawl needed: a one-time background update rebuilds every stock from its stored history"
 }
