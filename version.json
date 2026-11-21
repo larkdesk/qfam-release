@@ -1,6 +1,6 @@
 {
-  "version": 2470,
+  "version": 2471,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2470/qfam-v2470.apk",
-  "notes": "Staircase counts fixed: every stock's signals are kept in one store filled by the crawls (and a one-time fill after the update), so the chips, preset counts, \ud83c\udf10 Market, snapshots, widget and alerts all agree, and the Review lists stop jumping when data catches up. Re-run Every preset now in Snapshots to refresh the old ones"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2471/qfam-v2471.apk",
+  "notes": "The \ud83c\udf10 after a ticker now marks only market stocks you have never traded (Market tab and snapshots); stocks you traded no longer show it"
 }
