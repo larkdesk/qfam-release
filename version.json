@@ -1,6 +1,6 @@
 {
-  "version": 2471,
+  "version": 2472,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2471/qfam-v2471.apk",
-  "notes": "The \ud83c\udf10 after a ticker now marks only market stocks you have never traded (Market tab and snapshots); stocks you traded no longer show it"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2472/qfam-v2472.apk",
+  "notes": "The \ud83c\udf10 after a ticker now marks stocks that pass your Market covers rule (exchanges + size), on Review cards, open position cards, and the widget's position rows and review cards"
 }
