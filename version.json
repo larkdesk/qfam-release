@@ -1,6 +1,6 @@
 {
-  "version": 2474,
+  "version": 2475,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2474/qfam-v2474.apk",
-  "notes": "Widget chips: the \ud83c\udf10 side now lists every market match, your own stocks included (as the Market tab does), so tapping a chip like 4 traded \u00b7 \ud83c\udf102 shows those 2"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2475/qfam-v2475.apk",
+  "notes": "Market counts now agree everywhere (presets sheet, Snapshots, Market tab, widget): every match in the market universe, your own stocks included. Snapshot count pills no longer wrap on big numbers. Tap Every preset now to refresh old snapshots"
 }
