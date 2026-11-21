@@ -1,6 +1,6 @@
 {
-  "version": 2473,
+  "version": 2474,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2473/qfam-v2473.apk",
-  "notes": "Widget review chips: tap the shown chip again to switch between its traded stocks and its \ud83c\udf10 market stocks (title and chip show which), same order as the preset's sort"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2474/qfam-v2474.apk",
+  "notes": "Widget chips: the \ud83c\udf10 side now lists every market match, your own stocks included (as the Market tab does), so tapping a chip like 4 traded \u00b7 \ud83c\udf102 shows those 2"
 }
