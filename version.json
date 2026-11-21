@@ -1,6 +1,6 @@
 {
-  "version": 2469,
+  "version": 2470,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2469/qfam-v2469.apk",
-  "notes": "Staircase filters on Review: five chips (Climbing, Push due, Dip in uptrend, Broken, Lapsed), two new sorts (Next push, Below last signal) and three starter presets. Also work in the widget and alerts"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2470/qfam-v2470.apk",
+  "notes": "Staircase counts fixed: every stock's signals are kept in one store filled by the crawls (and a one-time fill after the update), so the chips, preset counts, \ud83c\udf10 Market, snapshots, widget and alerts all agree, and the Review lists stop jumping when data catches up. Re-run Every preset now in Snapshots to refresh the old ones"
 }
