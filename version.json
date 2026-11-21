@@ -1,6 +1,6 @@
 {
-  "version": 2472,
+  "version": 2473,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2472/qfam-v2472.apk",
-  "notes": "The \ud83c\udf10 after a ticker now marks stocks that pass your Market covers rule (exchanges + size), on Review cards, open position cards, and the widget's position rows and review cards"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2473/qfam-v2473.apk",
+  "notes": "Widget review chips: tap the shown chip again to switch between its traded stocks and its \ud83c\udf10 market stocks (title and chip show which), same order as the preset's sort"
 }
