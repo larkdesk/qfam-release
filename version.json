@@ -1,6 +1,6 @@
 {
-  "version": 2480,
+  "version": 2481,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2480/qfam-v2480.apk",
-  "notes": "Market tab now follows the crawl while it is open: only the stocks crawled since the last pass are refreshed, in small background slices that wait for you; slow passes back off by themselves"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2481/qfam-v2481.apk",
+  "notes": "Sector chip on the cards now shows the sector's day change (same figure as the Sector Monitor) and its breadth rank, labelled: Utilities \u2191 Leading \u22121.58% \u00b7 breadth #10\u21922/11. Long-press explains each number"
 }
