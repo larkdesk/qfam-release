@@ -1,6 +1,6 @@
 {
-  "version": 2477,
+  "version": 2478,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2477/qfam-v2477.apk",
-  "notes": "SFTP backup: Android's 'Binding socket to network N failed: EPERM' is raised when the socket is created, which the earlier fix missed; the whole bound connect now falls back to the normal route"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2478/qfam-v2478.apk",
+  "notes": "Returning to the app: the Market tab now shows its last loaded stocks at once instead of 'Gathering the market list\u2026', and refreshes behind them only when older than 10 minutes"
 }
