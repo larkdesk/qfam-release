@@ -1,6 +1,6 @@
 {
-  "version": 2479,
+  "version": 2480,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2479/qfam-v2479.apk",
-  "notes": "Market tab after the app was fully closed: the stocks you were looking at appear at once (saved in one small file) while the full list loads, with an 'Updating the market list' line"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2480/qfam-v2480.apk",
+  "notes": "Market tab now follows the crawl while it is open: only the stocks crawled since the last pass are refreshed, in small background slices that wait for you; slow passes back off by themselves"
 }
