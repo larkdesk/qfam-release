@@ -1,6 +1,6 @@
 {
-  "version": 2478,
+  "version": 2479,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2478/qfam-v2478.apk",
-  "notes": "Returning to the app: the Market tab now shows its last loaded stocks at once instead of 'Gathering the market list\u2026', and refreshes behind them only when older than 10 minutes"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2479/qfam-v2479.apk",
+  "notes": "Market tab after the app was fully closed: the stocks you were looking at appear at once (saved in one small file) while the full list loads, with an 'Updating the market list' line"
 }
