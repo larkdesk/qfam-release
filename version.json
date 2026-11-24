@@ -1,6 +1,6 @@
 {
-  "version": 2483,
+  "version": 2484,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2483/qfam-v2483.apk",
-  "notes": "New: \ud83e\udd16 Claude's trades (\u22ee menu \u2192 Trading). A read-only view of the external paper account Claude trades by itself: open positions (long and short) with Claude's one-line reason, a stop-to-now range bar and distance to stop, a track record of closed trades (win rate, average win/loss, how each ended), and waiting orders. Connect once with the paper key (stored encrypted, kept apart from your own accounts)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2484/qfam-v2484.apk",
+  "notes": "Claude's trades now shows Claude's mode (short-term, long-term or both), whether it is running (green when it checked in within 15 minutes, amber warning if its Mac has gone quiet), its own one-line plan in plain words, and when it looks next."
 }
