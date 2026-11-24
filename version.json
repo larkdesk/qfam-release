@@ -1,6 +1,6 @@
 {
-  "version": 2485,
+  "version": 2486,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2485/qfam-v2485.apk",
-  "notes": "Faster Review panel load: Review and Expired now appear as soon as they are ready instead of waiting for the 1,300-row All Traded list, which fills in behind them in small slices at low priority. Also fixes a slowdown where every pass re-read the staircase signals of all stocks instead of just the rows on screen."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2486/qfam-v2486.apk",
+  "notes": "Review panel loads faster: the dip-group streak no longer rebuilds calendar objects for every day of every stock, and two Review loads can no longer run at the same time."
 }
