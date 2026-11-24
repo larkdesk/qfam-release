@@ -1,6 +1,6 @@
 {
-  "version": 2486,
+  "version": 2487,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2486/qfam-v2486.apk",
-  "notes": "Review panel loads faster: the dip-group streak no longer rebuilds calendar objects for every day of every stock, and two Review loads can no longer run at the same time."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2487/qfam-v2487.apk",
+  "notes": "Claude's trades screen now shows options: CALL/PUT cards with contracts, premium paid vs now, days to expiry, a plain-language pays-off line, and closed options with the rule that closed them."
 }
