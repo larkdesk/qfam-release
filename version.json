@@ -1,6 +1,6 @@
 {
-  "version": 2491,
+  "version": 2492,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2491/qfam-v2491.apk",
-  "notes": "Claude's trades: tap a card to open its Review data; tap the Review card to open the floating stock block like in the Review panel; the card's info and buy dialogs now work; AI analysis and your saved chip filters are wired like the Review panel."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2492/qfam-v2492.apk",
+  "notes": "Claude's trades: the Review data cards now always draw (your Review filters no longer hide them); leaving the screen returns to the main screen without the blank reload; fixed a 5 s freeze on return caused by the Review filter pills building a timezone for every row."
 }
