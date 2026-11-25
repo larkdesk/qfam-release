@@ -1,6 +1,6 @@
 {
-  "version": 2500,
+  "version": 2501,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2500/qfam-v2500.apk",
-  "notes": "Widget open-position charts now show the continuation-signal dots (yellow) on the line, plus the month's high/low and today's dot."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2501/qfam-v2501.apk",
+  "notes": "Automation rules can lock the stocks they buy for 2, 3, 5, 10 or 20 trading days (Do section of a rule). Unlock any time from the stock's card."
 }
