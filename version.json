@@ -1,6 +1,6 @@
 {
-  "version": 2501,
+  "version": 2502,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2501/qfam-v2501.apk",
-  "notes": "Automation rules can lock the stocks they buy for 2, 3, 5, 10 or 20 trading days (Do section of a rule). Unlock any time from the stock's card."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2502/qfam-v2502.apk",
+  "notes": "Widget: Alpaca account blocks now show a \ud83e\udd99 before the account name."
 }
