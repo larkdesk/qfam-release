@@ -1,6 +1,6 @@
 {
-  "version": 2495,
+  "version": 2496,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2495/qfam-v2495.apk",
-  "notes": "Claude screen: new 'Option finds beyond the ideas' section on the Ideas tab - calls and puts on trending liquid stocks the Mac spotted outside the top stock ideas, tagged cheap volatility / heavy activity / strong trend, with cost, break-even, delta, spread, verdict and Review data"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2496/qfam-v2496.apk",
+  "notes": "Claude screen: Fed-decision banner on the Ideas tab (Claude opens no options on Fed day and no new positions in the announcement window). Mac-side: sector limits, macro calendar, hedge ideas"
 }
