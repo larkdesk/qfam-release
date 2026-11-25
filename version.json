@@ -1,6 +1,6 @@
 {
-  "version": 2488,
+  "version": 2489,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2488/qfam-v2488.apk",
-  "notes": "Claude's trades screen: stops that Claude's Mac places or tightens on its own now show as the position's stop and no longer appear under Waiting."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2489/qfam-v2489.apk",
+  "notes": "Claude's trades: new Ideas tab with Claude's scored long and short candidates, and an expandable Review data area on every card showing QFam's own Review card for the stock (refreshable, fills stocks QFam hasn't loaded yet)."
 }
