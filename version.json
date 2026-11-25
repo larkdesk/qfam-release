@@ -1,6 +1,6 @@
 {
-  "version": 2499,
+  "version": 2500,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2499/qfam-v2499.apk",
-  "notes": "Claude's trades panel shows invested, short, free cash, share in the market, return and win rate, in your display currency. Widget position charts now show the month's high, low and today's dots like the Review strip."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2500/qfam-v2500.apk",
+  "notes": "Widget open-position charts now show the continuation-signal dots (yellow) on the line, plus the month's high/low and today's dot."
 }
