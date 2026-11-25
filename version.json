@@ -1,6 +1,6 @@
 {
-  "version": 2494,
+  "version": 2495,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2494/qfam-v2494.apk",
-  "notes": "Claude's Ideas tab: new Option ideas section with the best call or put for each top stock idea (cost per contract, what the stock must do, delta, spread, fair-bet verdict, cheap or rich volatility) plus the Review data card."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2495/qfam-v2495.apk",
+  "notes": "Claude screen: new 'Option finds beyond the ideas' section on the Ideas tab - calls and puts on trending liquid stocks the Mac spotted outside the top stock ideas, tagged cheap volatility / heavy activity / strong trend, with cost, break-even, delta, spread, verdict and Review data"
 }
