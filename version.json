@@ -1,6 +1,6 @@
 {
-  "version": 2497,
+  "version": 2498,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2497/qfam-v2497.apk",
-  "notes": "Fix: Alpaca Order Log now follows Alpaca live (partial fills such as 73 of 74 show at once; refreshes on open and every 30 s). Fix: out-of-memory crash (snapshot checks run one at a time, Alpaca reconcile no longer overlaps, date formatting reused)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2498/qfam-v2498.apk",
+  "notes": "Fix: after locking or unlocking a stock the Positions panel updates at once - Close and the other actions work without a manual refresh"
 }
