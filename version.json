@@ -1,6 +1,6 @@
 {
-  "version": 2492,
+  "version": 2493,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2492/qfam-v2492.apk",
-  "notes": "Claude's trades: the Review data cards now always draw (your Review filters no longer hide them); leaving the screen returns to the main screen without the blank reload; fixed a 5 s freeze on return caused by the Review filter pills building a timezone for every row."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2493/qfam-v2493.apk",
+  "notes": "Faster return to the app: the Review panel's load no longer waits behind a burst of background maintenance; Claude's Review data cards refresh lightly and stop working when you leave the screen."
 }
