@@ -1,6 +1,6 @@
 {
-  "version": 2503,
+  "version": 2504,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2503/qfam-v2503.apk",
-  "notes": "Fix Open Positions load stalling for seconds behind the Review list load (spike reads now share the database in small turns)."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2504/qfam-v2504.apk",
+  "notes": "Fix the lingering 'QFam \u2013 Starting\u2026' notification during sector snapshot / gap-up crawls."
 }
