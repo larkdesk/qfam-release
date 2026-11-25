@@ -1,6 +1,6 @@
 {
-  "version": 2490,
+  "version": 2491,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2490/qfam-v2490.apk",
-  "notes": "Claude's trades: collapsible section bars (long/short ideas; long stocks, short stocks, options on Open and Closed) with count and summary, remembered per section, so there is far less scrolling."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2491/qfam-v2491.apk",
+  "notes": "Claude's trades: tap a card to open its Review data; tap the Review card to open the floating stock block like in the Review panel; the card's info and buy dialogs now work; AI analysis and your saved chip filters are wired like the Review panel."
 }
