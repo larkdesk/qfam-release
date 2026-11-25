@@ -1,6 +1,6 @@
 {
-  "version": 2487,
+  "version": 2488,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2487/qfam-v2487.apk",
-  "notes": "Claude's trades screen now shows options: CALL/PUT cards with contracts, premium paid vs now, days to expiry, a plain-language pays-off line, and closed options with the rule that closed them."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2488/qfam-v2488.apk",
+  "notes": "Claude's trades screen: stops that Claude's Mac places or tightens on its own now show as the position's stop and no longer appear under Waiting."
 }
