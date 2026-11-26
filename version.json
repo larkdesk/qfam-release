@@ -1,6 +1,6 @@
 {
-  "version": 2517,
+  "version": 2518,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2517/qfam-v2517.apk",
-  "notes": "Open Positions load: snapshot chips no longer hog the CPU or the shared queue"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2518/qfam-v2518.apk",
+  "notes": "Background maintenance yields the CPU to screen loads"
 }
