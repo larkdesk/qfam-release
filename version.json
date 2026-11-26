@@ -1,6 +1,6 @@
 {
-  "version": 2522,
+  "version": 2523,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2522/qfam-v2522.apk",
-  "notes": "\ud83d\udfe2\ud83e\ude9c bottom-setup score now on Open Positions cards and widget rows too, and on every Review/strip card whatever the sort; widget review cards re-laid out so the staircase, \ud83c\udfaf and score are no longer cut off"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2523/qfam-v2523.apk",
+  "notes": "Market holidays (Thanksgiving\u2026) count as no session: the \u23f1 sellers/buyers-in-control filters keep their stocks instead of going to 0; alert badges use the last trading day"
 }
