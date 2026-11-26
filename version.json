@@ -1,6 +1,6 @@
 {
-  "version": 2523,
+  "version": 2524,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2523/qfam-v2523.apk",
-  "notes": "Market holidays (Thanksgiving\u2026) count as no session: the \u23f1 sellers/buyers-in-control filters keep their stocks instead of going to 0; alert badges use the last trading day"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2524/qfam-v2524.apk",
+  "notes": "Sector snapshot crawl now rests on market holidays; the holiday check is cached (it slowed Review/Open Positions loads in build 2523)"
 }
