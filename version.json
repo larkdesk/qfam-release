@@ -1,6 +1,6 @@
 {
-  "version": 2504,
+  "version": 2505,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2504/qfam-v2504.apk",
-  "notes": "Fix the lingering 'QFam \u2013 Starting\u2026' notification during sector snapshot / gap-up crawls."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2505/qfam-v2505.apk",
+  "notes": "Smoother scrolling in Review and Positions"
 }
