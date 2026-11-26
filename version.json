@@ -1,6 +1,6 @@
 {
-  "version": 2519,
+  "version": 2520,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2519/qfam-v2519.apk",
-  "notes": "Widget Review presets follow the new sorts"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2520/qfam-v2520.apk",
+  "notes": "Bottom-setup score on cards, push-due marker, guide updated for staircase, dots, sorts, lock and own target"
 }
