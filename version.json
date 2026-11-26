@@ -1,6 +1,6 @@
 {
-  "version": 2511,
+  "version": 2513,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2511/qfam-v2511.apk",
-  "notes": "Own profit target per position (\ud83c\udfaf on the card) overrules the strategy target"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2513/qfam-v2513.apk",
+  "notes": "No panel refresh when returning from the app's own screens"
 }
