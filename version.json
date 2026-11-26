@@ -1,6 +1,6 @@
 {
-  "version": 2513,
+  "version": 2515,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2513/qfam-v2513.apk",
-  "notes": "No panel refresh when returning from the app's own screens"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2515/qfam-v2515.apk",
+  "notes": "Floating chart: low dot green, matching the widget"
 }
