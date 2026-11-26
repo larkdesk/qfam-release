@@ -1,6 +1,6 @@
 {
-  "version": 2516,
+  "version": 2517,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2516/qfam-v2516.apk",
-  "notes": "Review sorts: near month low, staircase count, bottom setup"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2517/qfam-v2517.apk",
+  "notes": "Open Positions load: snapshot chips no longer hog the CPU or the shared queue"
 }
