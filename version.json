@@ -1,6 +1,6 @@
 {
-  "version": 2524,
+  "version": 2525,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2524/qfam-v2524.apk",
-  "notes": "Sector snapshot crawl now rests on market holidays; the holiday check is cached (it slowed Review/Open Positions loads in build 2523)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2525/qfam-v2525.apk",
+  "notes": "\ud83d\udfe2\ud83e\ude9c score shows just the number on every card (no repeated breakdown); the Icon & signal guide explains the three parts"
 }
