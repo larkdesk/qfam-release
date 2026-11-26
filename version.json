@@ -1,6 +1,6 @@
 {
-  "version": 2509,
+  "version": 2510,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2509/qfam-v2509.apk",
-  "notes": "Floating chart: month high / low / today dots like the widget; clearer high / low dots on both"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2510/qfam-v2510.apk",
+  "notes": "High dot red, low dot green on widget, strip cards and floating chart"
 }
