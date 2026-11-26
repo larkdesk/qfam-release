@@ -1,6 +1,6 @@
 {
-  "version": 2506,
+  "version": 2507,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2506/qfam-v2506.apk",
-  "notes": "Faster Review load: backup pauses during loads, spike chip masks cheaper"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2507/qfam-v2507.apk",
+  "notes": "Floating stock chart: high / low / today dots like the widget charts"
 }
