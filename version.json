@@ -1,6 +1,6 @@
 {
-  "version": 2527,
+  "version": 2528,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2527/qfam-v2527.apk",
-  "notes": "Queued close buys and snapshot automation re-arm to the day's real close (early close) whenever the exchange calendar is refreshed and on every app start"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2528/qfam-v2528.apk",
+  "notes": "Review panel load at the market open: Market-tab signals, session-watch alert scan and spike rescan no longer run alongside the load"
 }
