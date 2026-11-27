@@ -1,6 +1,6 @@
 {
-  "version": 2526,
+  "version": 2527,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2526/qfam-v2526.apk",
-  "notes": "Early-close days are followed: the day after Thanksgiving closes at 13:00 \u2014 regular/after-hours checks, order type, alerts, widget session, snapshot automation and close-buys use the real close; the AI trader reads the day's close from Alpaca"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2527/qfam-v2527.apk",
+  "notes": "Queued close buys and snapshot automation re-arm to the day's real close (early close) whenever the exchange calendar is refreshed and on every app start"
 }
