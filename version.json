@@ -1,6 +1,6 @@
 {
-  "version": 2536,
+  "version": 2537,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2536/qfam-v2536.apk",
-  "notes": "Presets: you can now pin four presets (was three)"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2537/qfam-v2537.apk",
+  "notes": "\ud83c\udfaf New: see what all open positions make if every one reaches its profit target (money + %, made so far vs still to come, lock days). Shown under the Open Positions header (tap for the breakdown) and on the widget's account block."
 }
