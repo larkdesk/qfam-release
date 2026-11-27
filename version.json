@@ -1,6 +1,6 @@
 {
-  "version": 2529,
+  "version": 2530,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2529/qfam-v2529.apk",
-  "notes": "Alpaca sell refused with 'insufficient qty' now sells whatever is left at Alpaca; already-sold positions are recorded plainly"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2530/qfam-v2530.apk",
+  "notes": "Alpaca sell waits up to 45 s for a pending cancel of the held shares (e.g. a resting profit target) to settle, then sells what is left"
 }
