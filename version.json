@@ -1,6 +1,6 @@
 {
-  "version": 2533,
+  "version": 2534,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2533/qfam-v2533.apk",
-  "notes": "Crash fix: Close Position failing because shares are still held (pending cancel) no longer crashes the app; the message shows as a dialog"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2534/qfam-v2534.apk",
+  "notes": "Stuck-cancel alert: an Alpaca order pending cancel for 10+ minutes is announced once with symbol, account and order id"
 }
