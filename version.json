@@ -1,6 +1,6 @@
 {
-  "version": 2525,
+  "version": 2526,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2525/qfam-v2525.apk",
-  "notes": "\ud83d\udfe2\ud83e\ude9c score shows just the number on every card (no repeated breakdown); the Icon & signal guide explains the three parts"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2526/qfam-v2526.apk",
+  "notes": "Early-close days are followed: the day after Thanksgiving closes at 13:00 \u2014 regular/after-hours checks, order type, alerts, widget session, snapshot automation and close-buys use the real close; the AI trader reads the day's close from Alpaca"
 }
