@@ -1,6 +1,6 @@
 {
-  "version": 2535,
+  "version": 2536,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2535/qfam-v2535.apk",
-  "notes": "Widget: removed the List chip; you can now have 4 presets (with alerts) on the widget next to the Alerts chip"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2536/qfam-v2536.apk",
+  "notes": "Presets: you can now pin four presets (was three)"
 }
