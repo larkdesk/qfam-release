@@ -1,6 +1,6 @@
 {
-  "version": 2531,
+  "version": 2532,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2531/qfam-v2531.apk",
-  "notes": "Returning from the Alpaca panel (and every own panel) no longer reloads the trading panel: the catch-up burst only runs when coming back from outside the app"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2532/qfam-v2532.apk",
+  "notes": "Removed the automatic placing of target sells at Alpaca (spike targets / sell-ats): no resting sell orders are placed by the app any more; set your own limit orders"
 }
