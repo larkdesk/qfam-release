@@ -1,6 +1,6 @@
 {
-  "version": 2528,
+  "version": 2529,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2528/qfam-v2528.apk",
-  "notes": "Review panel load at the market open: Market-tab signals, session-watch alert scan and spike rescan no longer run alongside the load"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2529/qfam-v2529.apk",
+  "notes": "Alpaca sell refused with 'insufficient qty' now sells whatever is left at Alpaca; already-sold positions are recorded plainly"
 }
