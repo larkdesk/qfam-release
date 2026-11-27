@@ -1,6 +1,6 @@
 {
-  "version": 2532,
+  "version": 2533,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2532/qfam-v2532.apk",
-  "notes": "Removed the automatic placing of target sells at Alpaca (spike targets / sell-ats): no resting sell orders are placed by the app any more; set your own limit orders"
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2533/qfam-v2533.apk",
+  "notes": "Crash fix: Close Position failing because shares are still held (pending cancel) no longer crashes the app; the message shows as a dialog"
 }
