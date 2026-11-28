@@ -1,6 +1,6 @@
 {
-  "version": 2543,
+  "version": 2544,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2543/qfam-v2543.apk",
-  "notes": "\ud83c\udfaf Widget positions show the profit-target price (\u25ce $\u2026) under the live price, with the money at target on the profit line."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2544/qfam-v2544.apk",
+  "notes": "\ud83c\udccf Redesigned Open Positions cards: clearer and shorter, with the profit target price, money at target and chart markers; details fold away (warnings stay named); buttons in a bottom bar. Review cards get the same layout. Lighter card drawing."
 }
