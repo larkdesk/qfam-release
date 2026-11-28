@@ -1,6 +1,6 @@
 {
-  "version": 2539,
+  "version": 2540,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2539/qfam-v2539.apk",
-  "notes": "\ud83c\udfaf Widget charts show each position's profit-target price as a cyan dashed tick (the entry stays a white solid tick). \ud83d\udee0 Alpaca orders that Alpaca removed are now recorded as cancelled instead of staying 'pending cancel'; the stuck-cancel warning clears."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2540/qfam-v2540.apk",
+  "notes": "\ud83d\udee0 Fixes the Review / Open Positions loading stalls at the root: while a screen loads, background work now shares one database connection, so the screen no longer waits behind it. The watch list page also reads far less data."
 }
