@@ -1,6 +1,6 @@
 {
-  "version": 2540,
+  "version": 2541,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2540/qfam-v2540.apk",
-  "notes": "\ud83d\udee0 Fixes the Review / Open Positions loading stalls at the root: while a screen loads, background work now shares one database connection, so the screen no longer waits behind it. The watch list page also reads far less data."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2541/qfam-v2541.apk",
+  "notes": "\ud83c\udfaf Cleaner widget chart markers: the entry is a white pill, the profit target a cyan bullseye pill (\u25b2 when above the chart), both inset from the edge with text kept clear of them."
 }
