@@ -1,6 +1,6 @@
 {
-  "version": 2544,
+  "version": 2545,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2544/qfam-v2544.apk",
-  "notes": "\ud83c\udccf Redesigned Open Positions cards: clearer and shorter, with the profit target price, money at target and chart markers; details fold away (warnings stay named); buttons in a bottom bar. Review cards get the same layout. Lighter card drawing."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2545/qfam-v2545.apk",
+  "notes": "\ud83c\udccf Review cards now match the Open Positions cards. \u26a1 Faster card drawing and Review sorting. The \ud83d\udd50 time no longer overlaps the chips."
 }
