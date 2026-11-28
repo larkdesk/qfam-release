@@ -1,6 +1,6 @@
 {
-  "version": 2542,
+  "version": 2543,
   "version_name": "1.0",
-  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2542/qfam-v2542.apk",
-  "notes": "\ud83c\udfaf Widget positions show what you make at the profit target (\u25ce +\u20ac\u2026), in the target marker's cyan at the end of the profit line; \u25ce reached once the price is there."
+  "url": "https://github.com/larkdesk/qfam-release/releases/download/v2543/qfam-v2543.apk",
+  "notes": "\ud83c\udfaf Widget positions show the profit-target price (\u25ce $\u2026) under the live price, with the money at target on the profit line."
 }
